@@ -155,9 +155,3 @@ The Word – January 2011
 ## Who is Karen Lee Field?
 
 You actually want to know more about me! Thank you, I’m flattered. Please go to the [About Me](./books/about-me.md) page.
-
-## Credits
-
-Most of the icons used in this section of the website are courtesy of Wax Creative Designs.
-
-<div style="text-align: center; font-size: 12px;">Last updated on 4 November 2024</div>
