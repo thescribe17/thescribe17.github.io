@@ -1,3 +1,7 @@
+/* ===========================
+   GLOBAL BASE STYLES
+   =========================== */
+
 body {
   font-family: "Open Sans", sans-serif;
   margin: 0;
@@ -14,7 +18,10 @@ body {
   padding: 20px;
 }
 
-/* Page Header (title + subtitle) */
+/* ===========================
+   PAGE HEADER
+   =========================== */
+
 .page-header {
   text-align: center;
   margin-top: 40px;
@@ -42,7 +49,15 @@ body {
   border-top: 1px solid #ccc;
 }
 
-/* NAVIGATION */
+/* Ensure section breaks clear floats */
+hr {
+  clear: both;
+}
+
+/* ===========================
+   NAVIGATION
+   =========================== */
+
 .navbar {
   background-color: #2196F3;
   color: white;
@@ -73,7 +88,7 @@ body {
   text-decoration: underline;
 }
 
-/* MOBILE NAVIGATION */
+/* Mobile Navigation */
 @media (max-width: 600px) {
   .navbar {
     flex-direction: column;
@@ -91,7 +106,10 @@ body {
   }
 }
 
-/* GENERAL MOBILE STYLES */
+/* ===========================
+   GENERAL MOBILE STYLES
+   =========================== */
+
 img {
   max-width: 100%;
   height: auto;
@@ -118,7 +136,10 @@ td, th {
   }
 }
 
-/* BOOK PAGE */
+/* ===========================
+   BOOK PAGE LAYOUT
+   =========================== */
+
 .book-header {
   display: flex;
   align-items: flex-start;
@@ -126,10 +147,10 @@ td, th {
   margin-bottom: 20px;
 }
 
+/* Removed float conflict — flexbox handles layout */
 .book-header img {
-  width: 300px; /* or whatever size you prefer */
+  width: 300px;
   height: auto;
-  float: left; /* keeps compatibility with older content */
 }
 
 .book-info {
@@ -140,18 +161,25 @@ td, th {
   margin: 0 0 10px 0;
 }
 
+/* Utility clear class (optional use) */
 .clear {
   clear: both;
 }
 
-/* ===[ Progress Bars ]=== */
+/* ===========================
+   PROGRESS BARS
+   =========================== */
+
 .status { width: 100%; }
 .status p { margin: 0.25em; }
 .stats { text-align: center; }
 .statusbar { border: 1px solid #2196F3; margin-bottom: 2em; }
 .statusfill { background-color: #2196F3; height: 10px; }
 
-/* Tag Cloud */
+/* ===========================
+   TAG CLOUD
+   =========================== */
+
 .tag-cloud {
   margin: 30px 0;
   text-align: center;
@@ -172,7 +200,10 @@ td, th {
   background: #ddd;
 }
 
-/* Search Bar */
+/* ===========================
+   SEARCH BAR
+   =========================== */
+
 #search-input {
   width: 80%;
   max-width: 400px;
@@ -203,7 +234,10 @@ td, th {
   text-decoration: underline;
 }
 
-/* Blog */
+/* ===========================
+   BLOG
+   =========================== */
+
 .blog-item {
   margin-bottom: 40px;
   padding-bottom: 20px;
@@ -242,7 +276,10 @@ td, th {
   background: #0055aa;
 }
 
-/* FOOTER */
+/* ===========================
+   FOOTER
+   =========================== */
+
 .footer {
   background-color: #f2f2f2;
   text-align: center;
