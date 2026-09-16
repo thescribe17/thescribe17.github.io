@@ -4,20 +4,29 @@ title: Domino Effect
 subtitle: A dark novel based on real emotions
 permalink: /books/domino-effect/
 ---
-<img src="{{ 'assets/img/DominoEffect-300wide2.jpg' | relative_url }}" alt="Domino Effect"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 
-<p><b>Title:</b> Domino Effect: A Dark Novel<br>
-<b>Author:</b> Karen Lee Field</p>
+<div class="book-header">
 
-<p style="font-weight: bold; color: #5778d8; font-size: 20px;">AU$2.99</p>
+<img src="{{ 'assets/img/DominoEffect-300wide2.jpg' | relative_url }}" alt="Domino Effect"  />
 
-<p><b>Publication Date:</b> 7 January 2019<br>
-<b>ISBN13:</b> 978-0-9943362-6-2 (ebook) and 978-0-9943362-3-1 (pbk)<br>
-<b>ASIN:</b> B07KMV7H83 (kindle edition)<br>
-<b>Edition:</b> 1st<br>
-<b>Genre:</b> Adult, Dark Fiction<br>
-<b>Formats:</b> paperback, epub, mobi, pdf<br>
-<b>Pages:</b> 300</p>
+  <div class="book-info">
+    <p><b>Title:</b> Domino Effect: A Dark Novel<br>
+    <b>Author:</b> Karen Lee Field</p>
+
+    <p style="font-weight: bold; color: #2196F3; font-size: 20px;">AU$2.99</p>
+
+    <p><b>Publication Date:</b> 7 January 2019<br>
+    <b>ISBN13:</b> 978-0-9943362-6-2 (ebook) and 978-0-9943362-3-1 (pbk)<br>
+    <b>ASIN:</b> B07KMV7H83 (kindle edition)<br>
+    <b>Edition:</b> 1st<br>
+    <b>Genre:</b> Adult, Dark Fiction<br>
+    <b>Formats:</b> paperback, epub, mobi, pdf<br>
+    <b>Pages:</b> 300</p>
+  </div>
+
+</div>
+
+## Description
 
 **Short Description:** Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person's decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author's real experiences.
 
@@ -41,6 +50,6 @@ Digital version:
 
 [Kindle](https://www.amazon.com.au/Domino-Effect-Karen-Lee-Field-ebook/dp/B07KMV7H83/)&nbsp;&bull;&nbsp;[Smashwords](https://www.smashwords.com/books/view/947607)&nbsp;&bull;&nbsp;[Nook](https://www.kobo.com/au/en/ebook/domino-effect-8)&nbsp;&bull;&nbsp;[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_Domino_Effect?id=5Ei5DwAAQBAJ)
 
-## Review request
+### Review request
 
 If you’ve read the book, please take a moment to write a review and post it at the bookstore where you purchased the book and/or on [Goodreads](https://www.goodreads.com/) and [LibraryThing](https://www.librarything.com). I would be extremely grateful for your time and your opinion. Thank you.

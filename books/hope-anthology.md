@@ -4,19 +4,28 @@ title: Hope
 subtitle: An anthology to raise suicide awareness
 permalink: /books/hope-anthology/
 ---
-<img src="{{ 'assets/img/Hope-188wide.jpg' | relative_url }}" alt="Hope" />{:style="display:block; margin-left:auto; margin-right:auto"}
 
-<p><b>Title:</b> Hope: An Anthology of Speculative Fiction to Help Raise Suicide Awareness<br>
-<b>Author:</b> Various Australian authors<br>
-<b>Edited by:</b> Sasha Beattie</p>
+<div class="book-header">
 
-<p><b>Publication Date:</b> 7 October 2011, out of print 31 December 2014<br>
-<b>Publisher:</b> Kayelle Press<br>
-<b>ISBN13:</b> 978-0-9808642-3-6(ebook) and 978-0-9808642-2-9 (pbk)<br>
-<b>Edition:</b> 1st<br>
-<b>Genre:</b> Anthology, Speculative Fiction<br>
-<b>Formats:</b> paperback, epub, mobi, pdf<br>
-<b>Pages:</b> 288</p>
+<img src="{{ 'assets/img/Hope-188wide.jpg' | relative_url }}" alt="Hope" />
+
+  <div class="book-info">
+    <p><b>Title:</b> Hope: An Anthology of Speculative Fiction to Help Raise Suicide Awareness<br>
+    <b>Author:</b> Various Australian authors<br>
+    <b>Edited by:</b> Sasha Beattie</p>
+
+    <p><b>Publication Date:</b> 7 October 2011, out of print 31 December 2014<br>
+    <b>Publisher:</b> Kayelle Press<br>
+    <b>ISBN13:</b> 978-0-9808642-3-6(ebook) and 978-0-9808642-2-9 (pbk)<br>
+    <b>Edition:</b> 1st<br>
+    <b>Genre:</b> Anthology, Speculative Fiction<br>
+    <b>Formats:</b> paperback, epub, mobi, pdf<br>
+    <b>Pages:</b> 288</p>
+  </div>
+
+</div>
+
+## Description
 
 From thirteen Australian writers comes a collection of original speculative fiction short stories that will take you from the great unknown of our own planet, to the stars, and beyond to mystical fantasy worlds. These stories of ‘hope’ include High Tide at Hot Water Beach (Paul Haines), Burned in the Black (Janette Dalgliesh), The Haunted Earth (Sean Williams), Eliot (Benjamin Solah), Boundaries (Karen Lee Field), The Encounter (Sasha Beattie), The God on the Mountain (Graham Storrs), Deployment (Craig Hull), Flowers in the Shadow of the Garden (Joanne Anderton), Blinded (Jodi Cleghorn), The Choosing (Rowena Cory Daniells), Duty and Sacrifice (Alan Baxter) and A Moment, A Day, A Year... (Pamela Freeman).
 
