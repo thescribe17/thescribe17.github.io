@@ -127,7 +127,7 @@ td, th {
 }
 
 .book-header img {
-  width: 188px; /* or whatever size you prefer */
+  width: 300px; /* or whatever size you prefer */
   height: auto;
   float: left; /* keeps compatibility with older content */
 }
