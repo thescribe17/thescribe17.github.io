@@ -22,17 +22,28 @@ All my books are available in paperback and various digital formats and are avai
 
 <div class="book-header1">
 
-<img src="{{ 'assets/img/JourneyToFreedom-188wide.jpg' | relative_url }}" alt="Journey to Freedom"  />
+  <img src="{{ 'assets/img/JourneyToFreedom-188wide.jpg' | relative_url }}" alt="Journey to Freedom">
 
-<div class="book-info">
-<p><b>Journey to Freedom: A mini-fantasy collection</b><br>
-released 11 December 2019<br>
-Adult Fiction, Fantasy</p>
+  <div class="book-info">
+    <p>
+      <b>
+        <a href="/books/journey-to-freedom/" style="text-decoration:none; color:inherit;">
+          Journey to Freedom: A mini-fantasy collection
+        </a>
+      </b><br>
+      released 11 December 2019<br>
+      Adult Fiction, Fantasy
+    </p>
 
-A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? <a href="/books/journey-to-freedom/">Read more »</a>
+    <p>
+      A mini fantasy collection. Four stories with common themes of oppression and struggle. 
+      The main characters crave freedom, but can they find what they are looking for?
+      <a href="/books/journey-to-freedom/">Read more »</a>
+    </p>
 
-Available in paperback and various digital formats.
-</div>
+    <p>Available in paperback and various digital formats.</p>
+  </div>
+
 </div>
 
 ![House on the Hill](/assets/img/House-onthe-Hill-300wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
