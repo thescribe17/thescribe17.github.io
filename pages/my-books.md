@@ -31,7 +31,7 @@ A mini fantasy collection. Four stories with common themes of oppression and str
 
 Available in paperback and various digital formats.
 
-<hr>
+<hr class="clear">
 
 ![House on the Hill](/assets/img/House-onthe-Hill-300wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
@@ -43,7 +43,7 @@ Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully 
 
 Available in paperback and various digital formats.
 
-<hr>
+<hr class="clear">
 
 ![Domino Effect](/assets/img/DominoEffect-188wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
@@ -55,7 +55,7 @@ Domino Effect, is a dark novel showing a family in despair after a loved one die
 
 Available in paperback and various digital formats.
 
-<hr>
+<hr class="clear">
 
 ![The Lion Gods](/assets/img/LionGods-200wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
@@ -67,7 +67,7 @@ When Princess Alara is informed Manu has been struck by a deadly fever, she is t
 
 Available in paperback and various digital formats.
 
-<hr>
+<hr class="clear">
 
 ![The King's Riddle](/assets/img/KingsRiddle-200wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
@@ -79,7 +79,7 @@ A Miuan princess and her guard-in-training have activated the volcano deep benea
 
 Available in paperback and various digital formats.
 
-<hr>
+<hr class="clear">
 
 ![The Land of Miu](/assets/img/LandOfMiu-199wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
@@ -103,7 +103,7 @@ Thirteen Australian speculative fiction writers take you from the great unknown 
 
 Published by Kayelle Press.
 
-<hr>
+<hr class="clear">
 
 ![100 Stories for Queensland](/assets/img/storiesforqld.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
@@ -116,7 +116,7 @@ All profits donated to the Queensland Premier’s Flood Relief Appeal.
 
 Published by eMergent Publishing.
 
-<hr>
+<hr class="clear">
 
 ![Speculative Realms](/assets/img/speculativerealms.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 

@@ -140,9 +140,8 @@ td, th {
   margin: 0 0 10px 0;
 }
 
-hr {
+.clear {
   clear: both;
-  margin: 20px 0;
 }
 
 /* ===[ Progress Bars ]=== */
