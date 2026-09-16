@@ -4,13 +4,17 @@ title: The King's Riddle
 subtitle: The Land of Miu, Book 2
 permalink: /books/kings-riddle/
 ---
-<img src="{{ 'assets/img/KingsRiddle-300wide2.jpg' | relative_url }}" alt="The King's Riddle"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 
+<div class="book-header">
+
+<img src="{{ 'assets/img/KingsRiddle-300wide2.jpg' | relative_url }}" alt="The King's Riddle"  />
+
+<div class="book-info">
 <p><b>Title:</b> The King's Riddle (The Land of Miu, #2, 2nd Ed.)<br>
 <b>Series:</b> The Land of Miu #2<br>
 <b>Author:</b> Karen Lee Field</p>
 
-<p style="font-weight: bold; color: #5778d8; font-size: 20px;">AU$1.99</p>
+<p style="font-weight: bold; color: #2196F3; font-size: 20px;">AU$1.99</p>
 
 <p><b>Publication Date:</b> 22 May 2015<br>
 <b>ISBN13:</b> 978-0-9943362-1-7<br>
@@ -19,6 +23,11 @@ permalink: /books/kings-riddle/
 <b>Genre:</b> Children's Fiction (9+), Fantasy<br>
 <b>Formats:</b> paperback, epub, mobi, pdf<br>
 <b>Pages:</b> 150</p>
+</div>
+
+</div>
+
+## Description
 
 **Short Description:** A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu.
 
@@ -40,7 +49,7 @@ Digital version:
 
 If you have read the book, please take a moment to write a review and post it on the online bookstore where you purchased it and/or at Goodreads. I would be extremely grateful for your time and your opinion. Thank you.
 
-#### Reviews:
+### Reviews:
 
 _On 24 May 2012 Crystal said:_
 5 stars: I wanted to give this book a 4.5 but since that’s not an option I feel better going with a five star than a four star rating. This is a great little book for kids/tweens and I enjoyed it myself too. It is fun, imaginative, and engaging while still providing a message about personal growth that is perfect for kids, and even some adults. 😉 I haven’t read the first book but I think it would be wise to read them in order, though it’s not entirely necessary. I will be reading book one with my son soon and looking for book three when it comes out.

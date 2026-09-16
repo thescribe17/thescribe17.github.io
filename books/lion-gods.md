@@ -4,8 +4,12 @@ title: The Lion Gods
 subtitle: The Land of Miu, Book 3
 permalink: /books/lion-gods/
 ---
-<img src="{{ 'assets/img/LionGods-300wide2.jpg' | relative_url }}" alt="The Lion Gods" />{:style="display:block; margin-left:auto; margin-right:auto"}
 
+<div class="book-header">
+
+<img src="{{ 'assets/img/LionGods-300wide2.jpg' | relative_url }}" alt="The Lion Gods" />
+
+<div class="book-info">
 <p><b>Title:</b> The Lion Gods (Land of Miu, #3)<br>
 <b>Series:</b> The Land of Miu #3<br>
 <b>Author:</b> Karen Lee Field</p>
@@ -19,6 +23,10 @@ permalink: /books/lion-gods/
 <b>Genre:</b> Children's Fiction (9+), Fantasy<br>
 <b>Formats:</b> paperback, epub, mobi, pdf<br>
 <b>Pages:</b> 158</p>
+</div>
+</div>
+
+## Description
 
 **Short Description:** When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth?
 
@@ -36,6 +44,6 @@ Digital version:
 
 [Kindle](https://www.amazon.com.au/Lion-Gods-Book-Land-Miu-ebook/dp/B07D1M3PH5/)&nbsp;&bull;&nbsp;[Smashwords](https://www.smashwords.com/books/view/826680)&nbsp;&bull;&nbsp;[Nook](https://www.kobo.com/au/en/ebook/the-lion-gods-the-land-of-miu-3)&nbsp;&bull;&nbsp;[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_The_Lion_Gods_The_Land_of_Miu_3?id=P81qDwAAQBAJ)
 
-## Review request
+### Review request
 
 If you’ve read the book, please take a moment to write a review and post it at the bookstore where you purchased the book and/or on [Goodreads](https://www.goodreads.com/) and [LibraryThing](https://www.librarything.com). I would be extremely grateful for your time and your opinion. Thank you.

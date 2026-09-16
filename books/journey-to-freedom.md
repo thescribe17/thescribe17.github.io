@@ -4,12 +4,16 @@ title: Journey to Freedom
 subtitle: A mini-fantasy collection of short stories
 permalink: /books/journey-to-freedom/
 ---
-<img src="{{ 'assets/img/JourneyToFreedom-283wide2.jpg' | relative_url }}" alt="Journey to Freedom"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 
+<div class="book-header">
+
+<img src="{{ 'assets/img/JourneyToFreedom-283wide2.jpg' | relative_url }}" alt="Journey to Freedom"  />
+
+  <div class="book-info">
 <p><b>Title:</b> Journey to Freedom: A mini-fantasy collection<br>
 <b>Author:</b> Karen Lee Field</p>
 
-<p style="font-weight: bold; color: #5778d8; font-size: 20px;">AU$1.99</p>
+<p style="font-weight: bold; color: #2196F3; font-size: 20px;">AU$1.99</p>
 
 <p><b>Publication Date:</b> 11 December 2019<br>
 <b>ISBN13:</b> 978-0-6485959-1-5 (ebook) and 978-0-6485959-0-8 (pbk)<br>
@@ -18,6 +22,11 @@ permalink: /books/journey-to-freedom/
 <b>Genre:</b> Adult, Fantasy<br>
 <b>Formats:</b> paperback, epub, mobi, pdf<br>
 <b>Pages:</b> 120</p>
+</div>
+
+</div>
+
+## Description
 
 **Short Description:** A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for?
 
@@ -41,6 +50,6 @@ Digital version:
 
 [Kindle](https://www.amazon.com.au/Journey-Freedom-Mini-Fantasy-Collection-ebook/dp/B07ZNNT75T/)&nbsp;&bull;&nbsp;[Smashword](https://www.amazon.com.au/Journey-Freedom-Mini-Fantasy-Collection-ebook/dp/B07ZNNT75T/)&nbsp;&bull;&nbsp;[Nook](https://www.kobo.com/au/en/ebook/journey-to-freedom-a-mini-fantasy-collection)&nbsp;&bull;&nbsp;[Google Book](https://play.google.com/store/books/details/Karen_Lee_Field_Journey_to_Freedom?id=DEm5DwAAQBAJ)
 
-## Review request
+### Review request
 
 If you’ve read the book, please take a moment to write a review and post it at the bookstore where you purchased the book and/or on [Goodreads](https://www.goodreads.com/) and [LibraryThing](https://www.librarything.com). I would be extremely grateful for your time and your opinion. Thank you.

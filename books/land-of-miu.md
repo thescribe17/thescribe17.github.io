@@ -4,13 +4,17 @@ title: The Land of Miu
 subtitle: The Land of Miu, Book 1
 permalink: /books/land-of-miu/
 ---
-<img src="{{ 'assets/img/LandofMiu-300wide2.jpg' | relative_url }}" alt="The Land of Miu" />{:style="display:block; margin-left:auto; margin-right:auto"}
 
+<div class="book-header">
+
+<img src="{{ 'assets/img/LandofMiu-300wide2.jpg' | relative_url }}" alt="The Land of Miu" />
+
+<div class="book-info">
 <p><b>Title:</b> The Land of Miu (Land of Miu, #1, 3rd ed.)<br>
 <b>Series:</b> The Land of Miu #3<br>
 <b>Author:</b> Karen Lee Field</p>
 
-<p style="font-weight: bold; color: #5778d8; font-size: 20px;">AU$Free</p>
+<p style="font-weight: bold; color: #2196F3; font-size: 20px;">AU$Free</p>
 
 <p><b>Publication Date:</b> 3 May 2015<br>
 <b>ISBN13:</b> 978-0-9943362-0-0<br>
@@ -19,8 +23,12 @@ permalink: /books/land-of-miu/
 <b>Genre:</b> Children's Fiction (9+), Fantasy<br>
 <b>Formats:</b> paperback, epub, mobi, pdf<br>
 <b>Pages:</b> 154</p>
+</div>
+</div>
 
 Originally published with the title "Cat's Eyes", this book was republished with a new title on 25 November 2011. The title is “The Land of Miu”.
+
+## Description
 
 **Short Description:** A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu.
 
@@ -42,7 +50,7 @@ Digital version (which is free everywhere, except Kindle):
 
 If you have read the book, please take a moment to write a review and post it on the online bookstore where you purchased it and/or at Goodreads. I would be extremely grateful for your time and your opinion. Thank you.
 
-#### Reviews:
+### Reviews:
 
 _Posted by Anonymous on the Nook bookstore..._
 I really really loved this book it was awesome! I loved the action in it and sometimes i could feel my whole body tense up.

@@ -4,8 +4,12 @@ title: Speculative Realms
 subtitle: Where there's a will, there's a way
 permalink: /books/speculative-realms/
 ---
+
+<div class="book-header">
+
 <img src="{{ 'assets/img/speculativerealms.jpg' | relative_url }}" alt="Speculative Realms" />{:style="display:block; margin-left:auto; margin-right:auto"}
 
+<div class="book-info">
 <p><b>Title:</b> Speculative Realms: Where there's a will, there's a way<br>
 <b>Edited by:</b> Sasha Beattie<br>
 <b>Author:</b> Various</p>
@@ -15,6 +19,10 @@ permalink: /books/speculative-realms/
 <b>Genre:</b> Adult, Fantasy<br>
 <b>Formats:</b> paperback, epub, mobi<br>
 <b>Pages:</b> 192</p>
+</div>
+</div>
+
+## Description
 
 If you want something badly enough, you will find the means to get it. Let demons, mages, technology and love show you the way.
 
@@ -78,6 +86,6 @@ A desperate prince will use one of Egypt's darkest secrets to try and turn back 
 
 This book is out of print and is no longer available for purchase.
 
-## Review request
+### Review request
 
 If you’ve read the book, please take a moment to write a review and post it at the bookstore where you purchased the book and/or on [Goodreads](https://www.goodreads.com/) and [LibraryThing](https://www.librarything.com). I would be extremely grateful for your time and your opinion. Thank you.

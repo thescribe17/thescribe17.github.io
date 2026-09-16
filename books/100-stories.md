@@ -4,8 +4,12 @@ title: 100 Stories for Queensland
 subtitle: An anthology for charity
 permalink: /books/100-stories/
 ---
-<img src="{{ 'assets/img/storiesforqld.jpg' | relative_url }}" alt="Stories for Queensland" />{:style="display:block; margin-left:auto; margin-right:auto"}
 
+<div class="book-header">
+
+<img src="{{ 'assets/img/storiesforqld.jpg' | relative_url }}" alt="Stories for Queensland" />
+
+  <div class="book-info">
 <p><b>Title:</b> 100 Stories for Queensland<br>
 <b>Author:</b> Various</p>
 
@@ -16,6 +20,11 @@ permalink: /books/100-stories/
 <b>Genre:</b> Anthology, General<br>
 <b>Formats:</b> paperback, epub, mobi, pdf<br>
 <b>Pages:</b> 316</p>
+  </div>
+
+</div>
+
+## Description
 
 100 STORIES FOR QUEENSLAND has something for everyone, from slice of life to science fiction, fantasy to romance, paranormal to literary fiction. Heart-warming, quirky, inspiring and funny the stories between these covers will lift readers to higher ground.
 
@@ -27,7 +36,7 @@ permalink: /books/100-stories/
 
 This book is out of print and is no longer available for purchase.
 
-#### Reviews:
+### Reviews:
 
 "One hundred beautiful stories. Our stories. When so much was lost or destroyed, this was created. That’s something that can never recede or wash away."
 _Kate Eltham, CEO of The Queensland Writers Centre_
