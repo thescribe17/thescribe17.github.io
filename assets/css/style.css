@@ -161,6 +161,13 @@ td, th {
   margin: 0 0 10px 0;
 }
 
+.box-note {
+  background-color: #eee;
+  border-left: 6px solid #2196F3;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
 /* Utility clear class (optional use) */
 .clear {
   clear: both;
