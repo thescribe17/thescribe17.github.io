@@ -2,6 +2,7 @@
 layout: post
 title: Website Updates and a Fresh New Look
 subtitle: Thank you for your patience while the site is rebuilt
+date: 2026-09-15
 categories: [general]
 tags: [website, updates, news]
 ---
