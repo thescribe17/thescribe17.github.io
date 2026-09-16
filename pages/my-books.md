@@ -20,7 +20,11 @@ Alternatively, browse below to find out more about my published books.
 
 All my books are available in paperback and various digital formats and are available from most online bookstores.
 
-![Journey to Freedom](/assets/img/JourneyToFreedom-188wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
+<div class="book-header">
+
+![Journey to Freedom](/assets/img/JourneyToFreedom-188wide.jpg)
+
+<div class="book-info">
 
 **Journey to Freedom: A mini-fantasy collection**
 <p>released 11 December 2019<br>
@@ -28,10 +32,9 @@ Adult Fiction, Fantasy</p>
 
 A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? [Read more »](/books/journey-to-freedom/)
 
-
 Available in paperback and various digital formats.
-
-<hr class="clear">
+</div>
+</div>
 
 ![House on the Hill](/assets/img/House-onthe-Hill-300wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
