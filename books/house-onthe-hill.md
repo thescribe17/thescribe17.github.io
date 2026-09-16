@@ -2,6 +2,7 @@
 layout: page
 title: House on the Hill
 subtitle: A Cat and Mouse Adventure
+permalink: /books/house-onthe-hill/
 ---
 <img src="{{ 'assets/img/HouseontheHill-300wide2.jpg' | relative_url }}" alt="House on the Hill"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 

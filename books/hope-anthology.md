@@ -2,6 +2,7 @@
 layout: page
 title: Hope
 subtitle: An anthology to raise suicide awareness
+permalink: /books/hope-anthology/
 ---
 <img src="{{ 'assets/img/Hope-188wide.jpg' | relative_url }}" alt="Hope" />{:style="display:block; margin-left:auto; margin-right:auto"}
 

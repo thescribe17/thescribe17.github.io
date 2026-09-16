@@ -2,6 +2,7 @@
 layout: page
 title: Writer's Resume
 subtitle: More stuff than you wanted to know about me
+permalink: /books/writers-resume/
 ---
 The progress bars below show the status of my current works-in-progress. Some of the projects are planned for the future. Others are being worked on now.
 

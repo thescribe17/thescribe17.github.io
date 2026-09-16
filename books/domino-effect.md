@@ -2,6 +2,7 @@
 layout: page
 title: Domino Effect
 subtitle: A dark novel based on real emotions
+permalink: /books/domino-effect/
 ---
 <img src="{{ 'assets/img/DominoEffect-300wide2.jpg' | relative_url }}" alt="Domino Effect"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 

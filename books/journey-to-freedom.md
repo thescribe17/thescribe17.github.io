@@ -2,6 +2,7 @@
 layout: page
 title: Journey to Freedom
 subtitle: A mini-fantasy collection of short stories
+permalink: /books/journey-to-freedom/
 ---
 <img src="{{ 'assets/img/JourneyToFreedom-283wide2.jpg' | relative_url }}" alt="Journey to Freedom"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 

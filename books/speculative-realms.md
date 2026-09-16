@@ -2,6 +2,7 @@
 layout: page
 title: Speculative Realms
 subtitle: Where there's a will, there's a way
+permalink: /books/speculative-realms/
 ---
 <img src="{{ 'assets/img/speculativerealms.jpg' | relative_url }}" alt="Speculative Realms" />{:style="display:block; margin-left:auto; margin-right:auto"}
 

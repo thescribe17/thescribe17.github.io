@@ -2,6 +2,7 @@
 layout: page
 title: Work in Progress
 subtitle: Not much happening here right now
+permalink: /books/work-in-progress/
 ---
 ## Personal Details
 

@@ -2,6 +2,7 @@
 layout: page
 title: The Lion Gods
 subtitle: The Land of Miu, Book 3
+permalink: /books/lion-gods/
 ---
 <img src="{{ 'assets/img/LionGods-300wide2.jpg' | relative_url }}" alt="The Lion Gods" />{:style="display:block; margin-left:auto; margin-right:auto"}
 

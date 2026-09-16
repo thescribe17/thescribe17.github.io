@@ -2,6 +2,7 @@
 layout: page
 title: The Land of Miu
 subtitle: The Land of Miu, Book 1
+permalink: /books/land-of-miu/
 ---
 <img src="{{ 'assets/img/LandofMiu-300wide2.jpg' | relative_url }}" alt="The Land of Miu" />{:style="display:block; margin-left:auto; margin-right:auto"}
 

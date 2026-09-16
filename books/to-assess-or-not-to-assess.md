@@ -2,6 +2,7 @@
 layout: page
 title: To Assess or Not to Assess
 subtitle: An article
+permalink: /books/to-assess-or-not-to-assess/
 ---
 
 {: .box-note}
