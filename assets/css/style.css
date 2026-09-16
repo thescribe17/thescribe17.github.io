@@ -140,6 +140,10 @@ td, th {
   margin: 0 0 10px 0;
 }
 
+hr {
+  clear: both;
+}
+
 /* ===[ Progress Bars ]=== */
 .status { width: 100%; }
 .status p { margin: 0.25em; }
