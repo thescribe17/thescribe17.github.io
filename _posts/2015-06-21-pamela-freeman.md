@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Author Interview: Pamela Freeman"
 date: 2015-06-21
 categories: [author-interview]

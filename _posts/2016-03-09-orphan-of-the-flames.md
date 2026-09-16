@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Book Review: The Orphan of the Flames"
 date: 2016-03-09
 categories: [book-review]

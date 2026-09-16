@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Welcome to the New Website"
 date: 2026-09-15
 categories: [general]
