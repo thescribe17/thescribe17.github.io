@@ -26,7 +26,8 @@ All my books are available in paperback and various digital formats and are avai
 <p>released 11 December 2019<br>
 Adult Fiction, Fantasy</p>
 
-A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? [Read more »](./books/journey-to-freedom.md)
+A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? [Read more »](/books/journey-to-freedom/)
+
 
 Available in paperback and various digital formats.
 
@@ -38,7 +39,7 @@ Available in paperback and various digital formats.
 <p>released 9 July 2019<br>
 Children’s Fiction (9+), Adventure</p>
 
-Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. [Read more »](./books/house-onthe-hill.md)
+Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. [Read more »](/books/house-onthe-hill)
 
 Available in paperback and various digital formats.
 
@@ -50,7 +51,7 @@ Available in paperback and various digital formats.
 <p>released 7 January 2019<br>
 Adult, Dark Fiction</p>
 
-Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person’s decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author’s real experiences. [Read more »](./books/domino-effect.md)
+Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person’s decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author’s real experiences. [Read more »](/books/domino-effect)
 
 Available in paperback and various digital formats.
 
@@ -62,7 +63,7 @@ Available in paperback and various digital formats.
 <p>released 1 June 2018<br>
 Children’s Fiction (9+), Fantasy</p>
 
-When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [Read more »](./books/lion-gods.md)
+When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [Read more »](/books/lion-gods)
 
 Available in paperback and various digital formats.
 
@@ -74,7 +75,7 @@ Available in paperback and various digital formats.
 <p>2nd edition released 22 May 2015<br>
 Children’s Fiction (9+), Fantasy</p>
 
-A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [Read more »](./books/kings-riddle.md)
+A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [Read more »](/books/kings-riddle)
 
 Available in paperback and various digital formats.
 
@@ -86,7 +87,7 @@ Available in paperback and various digital formats.
 <p>3rd edition released 3 May 2015<br>
 Children’s Fiction (9+), Fantasy</p>
 
-A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [Read more »](./books/land-of-miu.md)
+A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [Read more »](/books/land-of-miu)
 
 Available in paperback and various digital formats.
 
@@ -98,7 +99,7 @@ Available in paperback and various digital formats.
 <p>Edited by Sasha Beattie<br>
 Released 7 October 2011, out of print 31 December 2014</p>
 
-Thirteen Australian speculative fiction writers take you from the great unknown of our own planet, to the stars, and beyond to mystical fantasy worlds. Includes my story “Boundaries”. [Read more »](./books/hope-anthology.md)
+Thirteen Australian speculative fiction writers take you from the great unknown of our own planet, to the stars, and beyond to mystical fantasy worlds. Includes my story “Boundaries”. [Read more »](/books/hope-anthology)
 
 Published by Kayelle Press.
 
@@ -109,7 +110,7 @@ Published by Kayelle Press.
 **100 Stories for Queensland**
 <p>Released May 2011</p>
 
-This anthology has something for everyone, from slice of life to science fiction, fantasy to romance, paranormal to literary fiction. Includes my story “Amunet’s Gift”. [Read more »](./books/100-stories.md)
+This anthology has something for everyone, from slice of life to science fiction, fantasy to romance, paranormal to literary fiction. Includes my story “Amunet’s Gift”. [Read more »](/books/100-stories)
 
 All profits donated to the Queensland Premier’s Flood Relief Appeal.
 
@@ -125,12 +126,12 @@ Released July 2008, out of print 31 December 2014</p>
 
 If you want something badly enough, you will find the means to get it. Let demons, mages, technology and love show you the way.
 
-A collection of fantasy, science fiction and horror stories, including my story “Where Strength Lies”. [Read more »](./books/speculative-realms.md)
+A collection of fantasy, science fiction and horror stories, including my story “Where Strength Lies”. [Read more »](/books/speculative-realms)
 
 
 ## Articles
 
-[To Assess or Not To Assess, That is the Question](./books/to-assess-or-not-to-assess.md) – published by The Scriptorium in June 2003
+[To Assess or Not To Assess, That is the Question](/books/to-assess-or-not-to-assess) – published by The Scriptorium in June 2003
 
 ## Interviews and Guest Posts
 
@@ -154,4 +155,4 @@ The Word – January 2011
 
 ## Who is Karen Lee Field?
 
-You actually want to know more about me! Thank you, I’m flattered. Please go to the [About Me](./books/about-me.md) page.
+You actually want to know more about me! Thank you, I’m flattered. Please go to the [About Me](/books/about-me) page.
