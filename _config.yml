@@ -20,7 +20,4 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num"
 
-permalink: /:categories/:title/
-collections:
-  posts:
-    output: true
+permalink: /:title/
