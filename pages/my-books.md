@@ -20,7 +20,7 @@ Alternatively, browse below to find out more about my published books.
 
 All my books are available in paperback and various digital formats and are available from most online bookstores.
 
-<div class="book-header">
+<div class="book-header1">
 
 <img src="{{ 'assets/img/JourneyToFreedom-188wide.jpg' | relative_url }}" alt="Journey to Freedom"  />
 

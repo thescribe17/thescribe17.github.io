@@ -140,7 +140,7 @@ td, th {
    BOOK PAGE LAYOUT
    =========================== */
 
-.book-header {
+.book-header, .book-header1 {
   display: flex;
   align-items: flex-start;
   gap: 20px;
@@ -150,6 +150,10 @@ td, th {
 /* Removed float conflict — flexbox handles layout */
 .book-header img {
   width: 300px;
+  height: auto;
+}
+.book-header1 img {
+  width: 188px;
   height: auto;
 }
 
