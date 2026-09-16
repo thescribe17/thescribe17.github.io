@@ -118,6 +118,28 @@ td, th {
   }
 }
 
+/* BOOK PAGE */
+.book-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.book-header img {
+  width: 188px; /* or whatever size you prefer */
+  height: auto;
+  float: left; /* keeps compatibility with older content */
+}
+
+.book-info {
+  flex: 1;
+}
+
+.book-info p {
+  margin: 0 0 10px 0;
+}
+
 /* Tag Cloud */
 .tag-cloud {
   margin: 30px 0;

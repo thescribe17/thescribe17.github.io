@@ -4,8 +4,12 @@ title: House on the Hill
 subtitle: A Cat and Mouse Adventure
 permalink: /books/house-onthe-hill/
 ---
+
+<div class="book-header">
+
 <img src="{{ 'assets/img/HouseontheHill-300wide2.jpg' | relative_url }}" alt="House on the Hill"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 
+<div class="book-info">
 <p><b>Title:</b> House on the Hill: A Cat and Mouse Adventure<br>
 <b>Author:</b> Karen Lee Field</p>
 
@@ -20,6 +24,9 @@ permalink: /books/house-onthe-hill/
 <b>Pages:</b> 118</p>
 
 **Description:** Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill.
+</div>
+
+</div>
 
 ## Available from
 
