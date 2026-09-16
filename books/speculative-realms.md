@@ -7,7 +7,7 @@ permalink: /books/speculative-realms/
 
 <div class="book-header">
 
-<img src="{{ 'assets/img/speculativerealms.jpg' | relative_url }}" alt="Speculative Realms" />{:style="display:block; margin-left:auto; margin-right:auto"}
+<img src="{{ 'assets/img/speculativerealms.jpg' | relative_url }}" alt="Speculative Realms" />
 
 <div class="book-info">
 <p><b>Title:</b> Speculative Realms: Where there's a will, there's a way<br>
