@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title: "Blog"
 subtitle: "Updates, writing insights, and news"
 paginate: 10
