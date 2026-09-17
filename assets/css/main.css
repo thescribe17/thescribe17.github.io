@@ -63,6 +63,41 @@ body {
   color: #555;
 }
 
+/* ===========================
+   Title + Subtitle Styling
+   =========================== */
+
+.page-header,
+.post-header {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.page-title,
+.post-title {
+  font-size: 2.4rem;
+  margin-bottom: 10px;
+}
+
+.page-subtitle,
+.post-subtitle {
+  font-size: 1.4rem;
+  font-weight: normal;
+  color: #555;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+/* Half-width horizontal rule */
+.page-divider,
+.post-divider {
+  width: 50%;
+  margin: 0 auto;
+  border: 0;
+  border-top: 1px solid #ccc;
+}
+
 /* Footer */
 .site-footer {
   text-align: center;
