@@ -21,7 +21,7 @@ nav_links:
       url: "/"
   right:
     - title: "Blog"
-      url: "/blog/"
+      url: "/"
     - title: "My Books"
       url: "/my-books/"
     - title: "For Writers"
