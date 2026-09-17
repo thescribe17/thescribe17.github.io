@@ -5,6 +5,3 @@ subtitle: "Updates, writing insights, and news"
 permalink: /blog/
 paginate: 10
 ---
-
-<!-- Content above the list if you like -->
-Welcome to the blog. Newest posts appear at the top.
