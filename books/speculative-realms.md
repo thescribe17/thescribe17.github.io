@@ -5,7 +5,7 @@ subtitle: Where there's a will, there's a way
 permalink: /books/speculative-realms/
 ---
 
-<div class="book-header1">
+<div class="book-header">
 
 <img src="{{ 'assets/img/speculativerealms.jpg' | relative_url }}" alt="Speculative Realms" />
 

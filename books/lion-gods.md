@@ -5,7 +5,7 @@ subtitle: The Land of Miu, Book 3
 permalink: /books/lion-gods/
 ---
 
-<div class="book-header">
+<div class="book-header1">
 
 <img src="{{ 'assets/img/LionGods-300wide2.jpg' | relative_url }}" alt="The Lion Gods" />
 

@@ -5,7 +5,7 @@ subtitle: An anthology for charity
 permalink: /books/100-stories/
 ---
 
-<div class="book-header1">
+<div class="book-header">
 
 <img src="{{ 'assets/img/storiesforqld.jpg' | relative_url }}" alt="Stories for Queensland" />
 

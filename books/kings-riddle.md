@@ -5,7 +5,7 @@ subtitle: The Land of Miu, Book 2
 permalink: /books/kings-riddle/
 ---
 
-<div class="book-header">
+<div class="book-header1">
 
 <img src="{{ 'assets/img/KingsRiddle-300wide2.jpg' | relative_url }}" alt="The King's Riddle"  />
 

@@ -20,7 +20,7 @@ Alternatively, browse below to find out more about my published books.
 
 All my books are available in paperback and various digital formats and are available from most online bookstores.
 
-<div class="book-header1">
+<div class="book-header">
 
   <img src="{{ 'assets/img/JourneyToFreedom-188wide.jpg' | relative_url }}" alt="Journey to Freedom">
 
@@ -46,7 +46,7 @@ All my books are available in paperback and various digital formats and are avai
 
 </div>
 
-<div class="book-header1">
+<div class="book-header">
 
   <img src="{{ 'assets/img/House-onthe-Hill-300wide.jpg' | relative_url }}" alt="House on the Hill">
 
@@ -71,7 +71,7 @@ All my books are available in paperback and various digital formats and are avai
 
 </div>
 
-<div class="book-header1">
+<div class="book-header">
 
   <img src="{{ 'assets/img/DominoEffect-188wide.jpg' | relative_url }}" alt="Domino Effect">
 
@@ -96,7 +96,7 @@ All my books are available in paperback and various digital formats and are avai
 
 </div>
 
-<div class="book-header1">
+<div class="book-header">
 
   <img src="{{ 'assets/img/LionGods-200wide.jpg' | relative_url }}" alt="The Lion Gods">
 
@@ -121,7 +121,7 @@ All my books are available in paperback and various digital formats and are avai
 
 </div>
 
-<div class="book-header1">
+<div class="book-header">
 
   <img src="{{ 'assets/img/KingsRiddle-200wide.jpg' | relative_url }}" alt="The King’s Riddle">
 
@@ -146,7 +146,7 @@ All my books are available in paperback and various digital formats and are avai
 
 </div>
 
-<div class="book-header1">
+<div class="book-header">
 
   <img src="{{ 'assets/img/LandOfMiu-199wide.jpg' | relative_url }}" alt="The Land of Miu">
 
@@ -174,7 +174,7 @@ All my books are available in paperback and various digital formats and are avai
 
 ## Anthologies
 
-<div class="book-header1">
+<div class="book-header">
 
   <img src="{{ 'assets/img/Hope-188wide.jpg' | relative_url }}" alt="Hope Anthology">
 
@@ -199,7 +199,7 @@ All my books are available in paperback and various digital formats and are avai
 
 </div>
 
-<div class="book-header1">
+<div class="book-header">
 
   <img src="{{ 'assets/img/storiesforqld.jpg' | relative_url }}" alt="100 Stories for Queensland">
 
@@ -225,7 +225,7 @@ All my books are available in paperback and various digital formats and are avai
 
 </div>
 
-<div class="book-header1">
+<div class="book-header">
 
   <img src="{{ 'assets/img/speculativerealms.jpg' | relative_url }}" alt="Speculative Realms">
 

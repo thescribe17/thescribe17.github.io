@@ -5,7 +5,7 @@ subtitle: A mini-fantasy collection of short stories
 permalink: /books/journey-to-freedom/
 ---
 
-<div class="book-header">
+<div class="book-header1">
 
 <img src="{{ 'assets/img/JourneyToFreedom-283wide2.jpg' | relative_url }}" alt="Journey to Freedom"  />
 

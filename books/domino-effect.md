@@ -5,7 +5,7 @@ subtitle: A dark novel based on real emotions
 permalink: /books/domino-effect/
 ---
 
-<div class="book-header">
+<div class="book-header1">
 
 <img src="{{ 'assets/img/DominoEffect-300wide2.jpg' | relative_url }}" alt="Domino Effect"  />
 

@@ -5,7 +5,7 @@ subtitle: A Cat and Mouse Adventure
 permalink: /books/house-onthe-hill/
 ---
 
-<div class="book-header">
+<div class="book-header1">
 
   <img src="{{ '/assets/img/HouseontheHill-300wide2.jpg' | relative_url }}" alt="House on the Hill book cover">
 

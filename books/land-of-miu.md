@@ -5,7 +5,7 @@ subtitle: The Land of Miu, Book 1
 permalink: /books/land-of-miu/
 ---
 
-<div class="book-header">
+<div class="book-header1">
 
 <img src="{{ 'assets/img/LandofMiu-300wide2.jpg' | relative_url }}" alt="The Land of Miu" />
 
