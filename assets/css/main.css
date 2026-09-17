@@ -197,13 +197,13 @@ body {
 }
 
 .book-header img {
-  width: 188px; /* adjust per book cover */
+  width: 300px; /* adjust per book cover */
   height: auto;
   float: left; /* keeps compatibility with older content */
 }
 
 .book-header1 img {
-  width: 300px; /* adjust per book cover */
+  width: 188px; /* adjust per book cover */
   height: auto;
   float: left; /* keeps compatibility with older content */
 }
