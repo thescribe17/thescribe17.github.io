@@ -1,8 +1,8 @@
 ---
 permalink: /for-readers/
 layout: page
-title: For Readers
-subtitle: Book Reviews and Author Interviews
+title: "For Readers"
+subtitle: "Book Reviews and Author Interviews"
 ---
 
 The headings on this page include:

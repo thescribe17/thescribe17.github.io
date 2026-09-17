@@ -1,0 +1,64 @@
+---
+layout: default
+---
+<section class="archives">
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.subtitle %}
+      <p class="page-subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+  </header>
+
+  <section class="archive-search">
+    <input type="search" id="search" placeholder="Search posts..." aria-label="Search posts">
+    <p class="search-note">Simple browser search: use your browser’s find function or this field for notes.</p>
+  </section>
+
+  <section class="archive-by-year">
+    <h2>Posts by Year</h2>
+    {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in posts_by_year %}
+      <h3>{{ year.name }}</h3>
+      <ul>
+        {% for post in year.items %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span>({{ post.date | date: site.date_format }})</span>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  </section>
+
+  <section class="archive-categories">
+    <h2>Categories</h2>
+    <ul>
+      {% for category in site.categories %}
+        <li>
+          <strong>{{ category[0] }}</strong>
+          <ul>
+            {% for post in category[1] %}
+              <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="archive-tags">
+    <h2>Tags</h2>
+    <ul class="tag-list">
+      {% for tag in site.tags %}
+        <li>
+          <strong>{{ tag[0] }}</strong>
+          <ul>
+            {% for post in tag[1] %}
+              <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+</section>

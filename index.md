@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Welcome
-subtitle: Reading&nbsp;&bull;&nbsp;Writing&nbsp;&bull;&nbsp;Publishing&nbsp;&bull;&nbsp;This & That
+title: "The Desk of Karen Lee Field"
+subtitle: "Reading • Writing • Publishing • This & That"
+permalink: /
 ---
 
 # Mind the paint
@@ -14,11 +15,11 @@ Welcome. This is where my stories live — fantasy stories for adults, middle‑
 
 Explore the sections below:
 
-- **<a href="{{ '/blog' | relative_url }}">Blog</a>** — updates, writing insights, and news.
-- **<a href="{{ '/my-books' | relative_url }}">My Books</a>** — summaries, series information, and more about me.
-- **<a href="{{ '/for-writers' | relative_url }}">For Writers</a>** — practical links and writing‑related posts.
-- **<a href="{{ '/for-readers' | relative_url }}">For Readers</a>** — author interviews and book reviews.
-- **<a href="{{ '/archives' | relative_url }}">Archives</a>** — browse past posts by year.
-- **<a href="{{ '/contact' | relative_url }}">Contact</a>** — get in touch.
+- **[Blog](/blog/)** — updates, writing insights, and news.
+- **[My Books](/my-books/)** — summaries, series information, and more about me.
+- **[For Writers](/for-writers/)** — practical links and writing‑related posts.
+- **[For Readers](/for-readers/)** — author interviews and book reviews.
+- **[Archives](/archives/)** — browse past posts by year.
+- **[Contact](/contact/)** — get in touch.
 
 Thank you for visiting. I hope you enjoy your time peeking in the drawers of my writing desk.

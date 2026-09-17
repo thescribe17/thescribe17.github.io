@@ -1,0 +1,14 @@
+{% if page.previous or page.next %}
+<nav class="post-pagination">
+  {% if page.previous %}
+    <a class="prev-post" href="{{ page.previous.url | relative_url }}">
+      &larr; {{ page.previous.title }}
+    </a>
+  {% endif %}
+  {% if page.next %}
+    <a class="next-post" href="{{ page.next.url | relative_url }}">
+      {{ page.next.title }} &rarr;
+    </a>
+  {% endif %}
+</nav>
+{% endif %}

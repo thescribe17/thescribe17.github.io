@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<section class="blog-index">
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.subtitle %}
+      <p class="page-subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+  </header>
+
+  {% for post in paginator.posts %}
+    <article class="post-excerpt">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      {% if post.subtitle %}
+        <p class="post-subtitle">{{ post.subtitle }}</p>
+      {% endif %}
+      <p class="post-meta">
+        {{ post.date | date: site.date_format }}
+      </p>
+      <div class="excerpt">
+        {{ post.excerpt }}
+      </div>
+      <p><a href="{{ post.url | relative_url }}">Read more &raquo;</a></p>
+    </article>
+    <hr>
+  {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+    <nav class="index-pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer posts</a>
+      {% endif %}
+      <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">Older posts &rarr;</a>
+      {% endif %}
+    </nav>
+  {% endif %}
+</section>

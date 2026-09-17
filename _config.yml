@@ -3,28 +3,47 @@ description: "Author of fantasy adventure and middle-grade mystery fiction."
 baseurl: ""
 url: "https://www.karenleefield.com"
 
-markdown: kramdown
-theme: null
-
 date_format: "%-d %B %Y"
 
-collections:
-  books:
-    output: true
+# Collections & defaults
+permalink: /:categories/:year/:month/:day/:title/
 
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+plugins:
+  - jekyll-paginate
+
+# Navigation (for header)
+nav_links:
+  left:
+    - title: "The Desk of Karen Lee Field"
+      url: "/"
+  right:
+    - title: "Blog"
+      url: "/blog/"
+    - title: "My Books"
+      url: "/my-books/"
+    - title: "For Writers"
+      url: "/for-writers/"
+    - title: "For Readers"
+      url: "/for-readers/"
+    - title: "Archives"
+      url: "/archives/"
+    - title: "Contact"
+      url: "/contact/"
+
+# Defaults so title/subtitle show everywhere
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
       layout: post
-
-paginate: 10
-paginate_path: "/blog/page:num"
-
-permalink: /:categories/:year/:month/:day/:title/
-
-# Exclude these files from production site
-exclude:
-  - CNAME
-  - README.md
+      subtitle: ""
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      subtitle: ""
