@@ -5,7 +5,7 @@ subtitle: "Reading • Writing • Publishing • This & That"
 permalink: /
 ---
 
-Welcome. This is where my stories live — fantasy stories for adults, middle‑grade adventure mysteries for younger readers, and even a bit of dark fiction. Here you’ll find my books, my blog, book reviews and other resources I share with writers and readers alike.
+**Welcome.** This is where my stories live — fantasy stories for adults, middle‑grade adventure mysteries for younger readers, and even a bit of dark fiction. Here you’ll find my books, my blog, book reviews and other resources I share with writers and readers alike.
 
 Explore the sections below:
 
