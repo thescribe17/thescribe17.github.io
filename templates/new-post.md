@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post Title Here"
+title: "Title Goes Here"
 subtitle: "Optional subtitle goes here"
 date: 2026-09-17 10:00:00 +1000
 categories: [blog]        # e.g. [blog], [writing], [book-review], [author-interview]
