@@ -5,7 +5,7 @@ subtitle: An anthology to raise suicide awareness
 permalink: /books/hope-anthology/
 ---
 
-<div class="book-header">
+<div class="book-header1">
 
 <img src="{{ 'assets/img/Hope-188wide.jpg' | relative_url }}" alt="Hope" />
 
