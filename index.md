@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Desk of Karen Lee Field"
+title: "Welcome"
 subtitle: "Reading • Writing • Publishing • This & That"
 permalink: /
 ---
