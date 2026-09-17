@@ -5,7 +5,12 @@
         {{ site.title }}
       </a>
     </div>
-    <div class="nav-right">
+
+    <button class="nav-toggle" aria-label="Toggle navigation">
+      &#9776;
+    </button>
+
+    <div class="nav-menu">
       {% for link in site.nav_links.right %}
         <a href="{{ link.url | relative_url }}" class="nav-link">
           {{ link.title }}
