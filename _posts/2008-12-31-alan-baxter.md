@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Alan Baxter"
+subtitle: "Author Interview"
+date: 2008-12-31 10:00:00 +1000
+categories: [author-interview]
+tags: [reading, books]
+---
+
 <p>This is the first author interview for 2009. I plan on doing one a month throughout the year and I hope you will return to the website each month to read them.</p>
 
 <p>The first interview is with Alan Baxter, author of ~RealmShift and ~MageSign.</p>
