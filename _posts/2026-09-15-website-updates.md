@@ -3,8 +3,8 @@ layout: post
 title: Website Updates and a Fresh New Look
 subtitle: Thank you for your patience while the site is rebuilt
 date: 2026-09-15
-categories: [general]
-tags: [website, updates, news]
+categories: [blog]
+tags: [website, news]
 ---
 
 Over the past little while, my website has been undergoing a complete rebuild — new structure, new layout, new navigation, and a much cleaner way to explore everything I write. It’s been a big job behind the scenes, but I’m delighted to say the new version of **The Desk of Karen Lee Field** is now live. Although it has a long way to go before it's finished.

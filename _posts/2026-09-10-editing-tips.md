@@ -2,7 +2,7 @@
 layout: post
 title: "Five Editing Tips That Strengthen Any Story"
 date: 2026-09-10
-categories: [writing]
+categories: [editing, writing]
 tags: [writing]
 ---
 
