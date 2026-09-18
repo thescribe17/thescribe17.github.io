@@ -78,4 +78,4 @@ My next book for kids will be a non-fiction picture book about Lake Eyre in the 
 
 **Thank you for your time, Pamela. It's been wonderful "chatting" with you and I wish you all the best for the future.**
 
-If you would like to learn more about Pamela and her books, please visit her website - <a href"https://www.pamelafreeman.com/">Pamela Freeman</a>.
+If you would like to learn more about Pamela and her books, please visit her website - <a href="https://www.pamelafreeman.com/">Pamela Freeman</a>.
