@@ -9,22 +9,58 @@ The headings on this page include:
 * TOC
 {:toc}
 
-<p>No matter which genre you write in or what age group you are targeting, writing fiction and/or non-fiction is not easy. The craft of writing is a lonely business which needs dedication and thousands of hours of writing practice in order to learn how to plot novels, or short stories, and then add realistic characters and settings. It can be the most frustrating experience you will ever encounter, but writing can also enrich your life. All you need is patience, experience and perseverance.</p>
+No matter which genre you write in or what age group you are targeting, writing fiction and/or non-fiction is not easy. The craft of writing is a lonely business which needs dedication and thousands of hours of writing practice in order to learn how to plot novels, or short stories, and then add realistic characters and settings. It can be the most frustrating experience you will ever encounter, but writing can also enrich your life. All you need is patience, experience and perseverance.
 
-<p>If you should find problem links, please send me a quick email by using the contact form, so that I can fix the problem.</p>
+I've also added links to editing and publishing posts to cover the whole experience, not just the writing itself.
 
-<p>Good luck with your writing.</p>
+If you should find problem links, please send me a quick email by using the contact form, so the issue can be fixed.
 
 ## Posts on Writing
 
 <ul>
   {% assign posts = site.categories.writing %}
-  {% for post in posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <span>({{ post.date | date: "%Y-%m-%d" }})</span>
-    </li>
-  {% endfor %}
+  {% if posts and posts.size > 0 %}
+    {% for post in posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span>({{ post.date | date: "%Y-%m-%d" }})</span>
+      </li>
+    {% endfor %}
+  {% else %}
+    <li>No author interviews have been posted yet.</li>
+  {% endif %}
+</ul>
+
+## Posts on Editing
+
+<ul>
+  {% assign posts = site.categories.editing %}
+  {% if posts and posts.size > 0 %}
+    {% for post in posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span>({{ post.date | date: "%Y-%m-%d" }})</span>
+      </li>
+    {% endfor %}
+  {% else %}
+    <li>No author interviews have been posted yet.</li>
+  {% endif %}
+</ul>
+
+## Posts on Publishing
+
+<ul>
+  {% assign posts = site.categories.publishing %}
+  {% if posts and posts.size > 0 %}
+    {% for post in posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span>({{ post.date | date: "%Y-%m-%d" }})</span>
+      </li>
+    {% endfor %}
+  {% else %}
+    <li>No author interviews have been posted yet.</li>
+  {% endif %}
 </ul>
 
 ## Recommended Software
