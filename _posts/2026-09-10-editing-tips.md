@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Five Editing Tips That Strengthen Any Story"
-date: 2026-09-10
+date: 2026-09-10 10:00:00 +1000
 categories: [editing, writing]
 tags: [writing]
 ---
