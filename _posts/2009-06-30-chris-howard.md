@@ -2,7 +2,7 @@
 layout: post
 title: "Chris Howard"
 subtitle: "Author Interview"
-date: 2009-07-31 10:00:00 +1000
+date: 2009-06-30 10:00:00 +1000
 categories: [author-interview]
 tags: [reading, books]
 ---
