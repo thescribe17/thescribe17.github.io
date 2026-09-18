@@ -2,7 +2,7 @@
 layout: post
 title: "Pamela Freeman"
 subtitle: "Author Interview"
-date: 2026-09-17 10:00:00 +1000
+date: 2009-10-31 10:00:00 +1000
 categories: [author-interview]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gamimg], [technology], [genealogy], [movies], [craft]
 tags: [reading, books]  # anything you want, e.g. [news], [reading], [general], 
 ---
