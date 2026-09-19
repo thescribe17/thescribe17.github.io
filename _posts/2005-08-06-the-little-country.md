@@ -1,13 +1,26 @@
 ---
 layout: post
 title: "The Little Country"
+subtitle: Book Review
 date: 2005-08-06 10:00:00 +1000
 categories: [Book Review]
 tags: [BookReviews]
-book_image: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388790243i/186445.jpg"
-book_rating: 3
-book_blurb: "When folk musician Janey Little finds a mysterious manuscript in an old trunk in her grandfather's cottage, she is swept into a dangerous realm both strange and familiar..."
 ---
+
+<div class="book-header">
+
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388790243i/186445.jpg" />
+
+  <div class="book-info">
+  
+  **Book Rating:** 3 of 5 stars
+
+  **Book Blurb:** "When folk musician Janey Little finds a mysterious manuscript in an old trunk in her grandfather's cottage, she is swept into a dangerous realm both strange and familiar..."
+
+  </div>
+</div>
+
+**My Review:**
 
 You would have noticed by the sidebar that I've been reading The Little Country by Charles de Lint. Last night I finished it.
 
