@@ -3,7 +3,7 @@ layout: post
 title: "The Little Country"
 subtitle: Book Review
 date: 2005-08-06 10:00:00 +1000
-categories: [Book Review]
+categories: [book-review]
 tags: [BookReviews]
 ---
 
