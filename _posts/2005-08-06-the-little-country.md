@@ -13,9 +13,9 @@ tags: [BookReviews]
 
   <div class="book-info">
   
-  <p><b>Book Rating:</b> 3 of 5 stars<br>
+  <p><b>Book Rating:</b> 3 of 5 stars</p>
 
-  <b>Book Blurb:</b> "When folk musician Janey Little finds a mysterious manuscript in an old trunk in her grandfather's cottage, she is swept into a dangerous realm both strange and familiar..."</p>
+  <p><b>Book Blurb:</b> "When folk musician Janey Little finds a mysterious manuscript in an old trunk in her grandfather's cottage, she is swept into a dangerous realm both strange and familiar..."</p>
 
   </div>
 </div>
