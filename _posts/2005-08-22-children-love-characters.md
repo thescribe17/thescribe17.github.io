@@ -2,8 +2,8 @@
 layout: post
 title: "Children love Characters"
 date: 2005-08-22 10:00:00 +1000
-categories: [writing, writing-for-children]
-tags: [Writing, Writing for Children]
+categories: [writing]
+tags: [writing-for-children]
 ---
 
 When writing for children it is important to remember that children love characters. With this in mind, it is equally important to create realistic characters that will reach out and grab the reader and take them on an adventure of a life time.
