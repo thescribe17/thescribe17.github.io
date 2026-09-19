@@ -2,7 +2,7 @@
 layout: post
 title: "Drowned Wednesday"
 subtitle: Book Review
-date: 2005-08-19 12:00:00 +1000
+date: 2005-08-19 10:00:00 +1000
 categories: [book-review]
 tags: [Reading]
 ---

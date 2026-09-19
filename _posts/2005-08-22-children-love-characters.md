@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Children love Characters"
-date: 2005-08-22 12:00:00 +1000
+date: 2005-08-22 10:00:00 +1000
 categories: [writing, writing-for-children]
 tags: [Writing, Writing for Children]
 ---
