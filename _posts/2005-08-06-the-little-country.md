@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Little Country"
-date: 2005-08-06
+date: 2005-08-06 10:00:00 +1000
 categories: [Book Review]
 tags: [BookReviews]
 book_image: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388790243i/186445.jpg"
