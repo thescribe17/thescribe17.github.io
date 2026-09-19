@@ -11,7 +11,7 @@ This is the first author interview for 2009. I plan on doing one a month through
 
 The first interview is with Alan Baxter, author of RealmShift and MageSign.
 
-**Alan, welcome to Scribe’s Writing Desk and thank you for allowing me to interview you. Was there a moment in your life that clearly sparked your desire to write?**
+**Alan, welcome to my Writing Desk and thank you for allowing me to interview you. Was there a moment in your life that clearly sparked your desire to write?**
 
 I've always had the desire to write. As far back as I can remember I was making up stories and writing them down. I once got into trouble in primary school because my teacher was convinced that my parents must have written the English assignment that I handed in. Once my parents had convinced her that it was my own work she became concerned about the dark nature of it as there was murder and blood involved. So I guess I've always had the urge to write dark fiction!
 
@@ -29,7 +29,7 @@ Anywhere and everywhere. For example, I recently wrote a short story about a guy
 
 **Do you know how the story will end when you first start writing it?**
 
-Not always! When I wrote ~RealmShift I had no idea until about halfway through how it was going to wrap up. With MageSign I knew exactly from start to finish all the major story details and just had to build it and flesh it out. With this next book, I know the beginning and middle, but again have no idea how to wrap it up at this stage. But I trust in my abililty as a storyteller and I also believe in the story itself - if you start to tell the story, it'll lead you on to the end.
+Not always! When I wrote RealmShift I had no idea until about halfway through how it was going to wrap up. With MageSign I knew exactly from start to finish all the major story details and just had to build it and flesh it out. With this next book, I know the beginning and middle, but again have no idea how to wrap it up at this stage. But I trust in my abililty as a storyteller and I also believe in the story itself - if you start to tell the story, it'll lead you on to the end.
 
 **I look forward to reading more about that story in the future. Do you work on more than one story at a time? If so, how do you manage it?**
 
@@ -39,6 +39,6 @@ I usually work on one novel at a time, but always have several short story ideas
 
 Well, given that my "day job" is as a martial arts instructor, there's a lot that Isiah does in the books that I could probably do a lot better than a regular actor. But could I act as well? Who knows. I do love the idea of playing my own hero as I've always been a huge fan of movies, but I don't think I really resemble Isiah all that much. A lot of people have commented about how both RealmShift and MageSign would make great films, so I'd love to see my books optioned one day. Being such a movie fan, seeing one of my novels on the big screen would be awesome. I think I'd probably get involved and insist on being the fight choreographer (as most movie fights are awful) and then have a cameo role as a minor character somewhere. Perhaps I'd body double for the star in the fight scenes!
 
-**Now that would be interesting. I hope the situation arises so that we can enjoy that cameo role! My sincere thanks, Alan, for participating and please accept my best wishes for the future.**
+**Now that would be interesting. I hope the situation arises so that we can enjoy that cameo role! :) My sincere thanks, Alan, for participating and please accept my best wishes for the future.**
 
-If you would like to find out more about Alan or his books, please visit his website - [Alan Baxter Online](http://www.alanbaxteronline.com).
+If you would like to find out more about Alan or his books, please visit his website - <a href="https://alanbaxter.com.au/">Alan Baxter</a>.
