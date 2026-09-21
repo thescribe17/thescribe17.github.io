@@ -1,43 +1,40 @@
 ---
-title: Ghost at the Cemetery
+title: House on the Hill
 subtitle: A Cat and Mouse Adventure
 author: Karen Lee Field
-price: "AU$2.49"
-publication_date: 15 October 2026
-isbn13_paperback: "978-0994336293"
-asin: "B0XYZ12345"
+price: "AU$1.49"
+publication_date: 9 July 2019
+isbn13_paperback: "978-0994336255"
+asin: "B07TBF2Y23"
 edition: "1st"
-genre: "Children’s Fiction (9+), Mystery"
+genre: "Children’s Fiction (9+), Adventure"
 formats: ["paperback", "kindle"]
-pages: 132
-cover_image: /assets/images/books/ghost-at-the-cemetery.jpg
+pages: 118
+cover_image: /assets/images/books/house-on-the-hill.jpg
 layout: book
 ---
 
 ## Description
 
-Eleven-year-old twins, Cat and Mouse, are convinced the old cemetery is haunted.  
-When strange lights appear among the gravestones and eerie whispers echo through the night, they decide to investigate.
+Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. 
 
-But the deeper they dig, the more they uncover a mystery that someone desperately wants to keep buried.
-
-Can Cat and Mouse solve the puzzle before the ghostly presence becomes something far more dangerous?
+Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. 
 
 ## Available from
 
 **Paperback version:**  
-[Amazon](https://www.amazon.com/example-paperback-link)
+[Amazon](https://www.amazon.com.au/House-Hill-Cat-Mouse-Adventure/dp/099433625X/)
 
 **Digital version:**  
-[Kindle](https://www.amazon.com/example-kindle-link) •  
-[Smashwords](https://www.smashwords.com/example-link) •  
-[Nook](https://www.barnesandnoble.com/example-link) •  
-[Google Books](https://books.google.com/example-link)
+[Kindle](https://www.amazon.com.au/House-Hill-Cat-Mouse-Adventure-ebook/dp/B07TBF2Y23/) •  
+[Smashwords](https://www.smashwords.com/books/view/944995) •  
+[Nook](https://www.kobo.com/au/en/ebook/house-on-the-hill-3) •  
+[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_House_on_the_Hill?id=lki5DwAAQBAJ)
 
 ## Review request
 
-If you’ve read the book, please take a moment to write a review and post it at the bookstore where you purchased the book and/or on Goodreads and LibraryThing.
+If you’ve read the book, please take a moment to write a review and post it at the bookstore where you purchased the book and/or on Goodreads and LibraryThing. 
 
-I would be extremely grateful for your time and your opinion.
+I would be extremely grateful for your time and your opinion. 
 
 Thank you.
