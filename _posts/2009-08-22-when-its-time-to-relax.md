@@ -7,6 +7,7 @@ categories: [gaming]        # only use one of the following: [blog], [writing], 
 tags: []  # anything you want, e.g. [news], [reading], [general], 
 ---
 
+<!--more-->
 <img style="float: left; padding-right: 20px; padding-bottom: 10px;" src="https://upload.wikimedia.org/wikipedia/en/5/58/Resident_Evil_5_Box_Artwork.jpg" alt="Resident Evil 5 " />No one can write all the time. Everyone has to have other hobbies in their lives to ensure a heavy, happy existence. Or so I’ve been told.
 
 Anyway, one of the things I like to do when I’m not writing…is play role playing games on the ~PlayStation. Most people stop and gape at me when I say I’m a Resident Evil fan. How could such a prim and proper woman of my age want to kill zombies? What can I say…I love it!

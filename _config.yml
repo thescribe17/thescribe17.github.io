@@ -48,6 +48,8 @@ defaults:
       layout: page
       subtitle: ""
 
+excerpt_separator: "<!--more-->"
+
 # Exclude these files from production site
 exclude:
   - CNAME
