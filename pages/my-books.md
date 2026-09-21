@@ -1,7 +1,6 @@
 ---
 title: My Books
 layout: page
-subtitle: ""
 permalink: /my-books/
 ---
 
