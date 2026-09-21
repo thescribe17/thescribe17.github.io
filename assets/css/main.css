@@ -190,32 +190,6 @@ body {
   margin: 0 0 10px 0;
 }
 
-.book-price {
-  font-size: 1.8rem;
-  color: #2196F3; /* adjust to your preferred colour */
-  font-weight: bold;
-  margin: 0.5rem 0 1rem 0;
-}
-
-.book-cover {
-  max-width: 250px;
-  margin-bottom: 1rem;
-}
-
-.book-meta p {
-  margin: 0.2rem 0;
-}
-
-.book-description {
-  margin-top: 2rem;
-}
-
-.book-footer {
-  margin-top: 3rem;
-  font-size: 0.9rem;
-  color: #666;
-}
-
 /* Mobile-friendly collapse */
 @media (max-width: 768px) {
   .book-header,
