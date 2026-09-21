@@ -9,6 +9,8 @@ layout: default
     {% endif %}
   </header>
 
+  {{ post.excerpt | replace_regex: '<img.*?>', '' }}
+
   {% for post in paginator.posts %}
     <article class="post-excerpt">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
