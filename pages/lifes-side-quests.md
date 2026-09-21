@@ -5,11 +5,11 @@ title: "Life's Side Quests"
 subtitle: "The other things I love to do"
 ---
 
-On this page you will find subjects NOT related to reading, writing and publishing. I may or may not add more topics at a later date depending on my ever changing interests (sometimes referred to as current obsession).
-
 The headings on this page include:
 * TOC
 {:toc}
+
+On this page you will find subjects NOT related to reading, writing and publishing. I may or may not add more topics at a later date depending on my ever changing interests (sometimes referred to as current obsession).
 
 ## Posts on Gaming
 
