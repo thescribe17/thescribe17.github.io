@@ -1,6 +1,8 @@
 ---
 title: My Books
-layout: default
+layout: page
+subtitle: ""
+permalink: /my-books/
 ---
 
 # My Books
