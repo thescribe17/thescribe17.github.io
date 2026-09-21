@@ -1,27 +1,176 @@
 ---
-title: My Books
-subtitle: "If you're looking for a new book to read, maybe I can tempt you."
 layout: page
+title: "My Books"
+subtitle: "If you're looking for a new book to read, maybe I can tempt you."
 permalink: /my-books/
 ---
 
+The headings on this page include:
+* TOC
+{:toc}
+
+Below you will find my available books and publications. Some are a free download, while others are available for purchase in paperback and/or various ebook formats. New publications will be added to the top of its category list — books or articles. Click on the title to be taken to a page with a more in-depth blurb and information on how to purchase a copy.
+
 ## Books
 
-<ul class="book-list">
-{% for book in site.books %}
-  <li>
-    <a href="{{ book.url }}">
-      {% if book.cover_image %}
-        <img src="{{ book.cover_image }}" alt="{{ book.title }} cover" class="book-cover">
-      {% endif %}
-      <strong>{{ book.title }}</strong>
-      {% if book.subtitle %}
-        <span class="subtitle">{{ book.subtitle }}</span>
-      {% endif %}
-    </a>
-  </li>
-{% endfor %}
-</ul>
+{: .box-note}
+**Want to skip straight to the online stores?**<br />
+Use this <a href="https://books2read.com/ap/nlBja2/Karen-Lee-Field">universal link</a> to view all my books and purchase from the store of your choice.<br />
+Alternatively, browse below to find out more about my published books.
+
+All my books are available in paperback and various digital formats and are available from most online bookstores.
+
+<div class="book-header">
+
+  <img src="{{ 'assets/img/JourneyToFreedom-188wide.jpg' | relative_url }}" alt="Journey to Freedom">
+
+  <div class="book-info">
+    <p>
+      <b>
+        <a href="/books/journey-to-freedom/" style="text-decoration:none; color:inherit;">
+          Journey to Freedom: A mini-fantasy collection
+        </a>
+      </b><br>
+      released 11 December 2019<br>
+      Adult Fiction, Fantasy
+    </p>
+
+    <p>
+      A mini fantasy collection. Four stories with common themes of oppression and struggle. 
+      The main characters crave freedom, but can they find what they are looking for?
+      <a href="/books/journey-to-freedom/">Read more »</a>
+    </p>
+
+    <p>Available in paperback and various digital formats.</p>
+  </div>
+
+</div>
+
+<div class="book-header">
+
+  <img src="{{ 'assets/img/House-onthe-Hill-300wide.jpg' | relative_url }}" alt="House on the Hill">
+
+  <div class="book-info">
+    <p>
+      <b>
+        <a href="/books/house-onthe-hill/" style="text-decoration:none; color:inherit;">
+          House on the Hill: A Cat and Mouse Adventure
+        </a>
+      </b><br>
+      released 9 July 2019<br>
+      Children’s Fiction (9+), Adventure
+    </p>
+
+    <p>
+      Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill.
+      <a href="/books/house-onthe-hill/">Read more »</a>
+    </p>
+
+    <p>Available in paperback and various digital formats.</p>
+  </div>
+
+</div>
+
+<div class="book-header">
+
+  <img src="{{ 'assets/img/DominoEffect-188wide.jpg' | relative_url }}" alt="Domino Effect">
+
+  <div class="book-info">
+    <p>
+      <b>
+        <a href="/books/domino-effect/" style="text-decoration:none; color:inherit;">
+          Domino Effect: A Dark Novel
+        </a>
+      </b><br>
+      released 7 January 2019<br>
+      Adult, Dark Fiction
+    </p>
+
+    <p>
+      Domino Effect is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person’s decision has on those left behind. The story is fictitious, but the emotions and some scenes are based on real experiences.
+      <a href="/books/domino-effect/">Read more »</a>
+    </p>
+
+    <p>Available in paperback and various digital formats.</p>
+  </div>
+
+</div>
+
+<div class="book-header">
+
+  <img src="{{ 'assets/img/LionGods-200wide.jpg' | relative_url }}" alt="The Lion Gods">
+
+  <div class="book-info">
+    <p>
+      <b>
+        <a href="/books/lion-gods/" style="text-decoration:none; color:inherit;">
+          The Lion Gods (Land of Miu, #3)
+        </a>
+      </b><br>
+      released 1 June 2018<br>
+      Children’s Fiction (9+), Fantasy
+    </p>
+
+    <p>
+      When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth?
+      <a href="/books/lion-gods/">Read more »</a>
+    </p>
+
+    <p>Available in paperback and various digital formats.</p>
+  </div>
+
+</div>
+
+<div class="book-header">
+
+  <img src="{{ 'assets/img/KingsRiddle-200wide.jpg' | relative_url }}" alt="The King’s Riddle">
+
+  <div class="book-info">
+    <p>
+      <b>
+        <a href="/books/kings-riddle/" style="text-decoration:none; color:inherit;">
+          The King’s Riddle (Land of Miu, #2, 2nd ed.)
+        </a>
+      </b><br>
+      released 22 May 2015<br>
+      Children’s Fiction (9+), Fantasy
+    </p>
+
+    <p>
+      A Miuan princess and her guard-in-training activate the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu.
+      <a href="/books/kings-riddle/">Read more »</a>
+    </p>
+
+    <p>Available in paperback and various digital formats.</p>
+  </div>
+
+</div>
+
+<div class="book-header">
+
+  <img src="{{ 'assets/img/LandOfMiu-199wide.jpg' | relative_url }}" alt="The Land of Miu">
+
+  <div class="book-info">
+    <p>
+      <b>
+        <a href="/books/land-of-miu/" style="text-decoration:none; color:inherit;">
+          The Land of Miu (Land of Miu, #1, 3rd ed.)
+        </a>
+      </b><br>
+      released 3 May 2015<br>
+      Children’s Fiction (9+), Fantasy
+    </p>
+
+    <p>
+      A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, dangerous Land of Miu.
+      <a href="/books/land-of-miu/">Read more »</a>
+    </p>
+
+    <p>Available in paperback and various digital formats.</p>
+  </div>
+
+</div>
+
 
 ## Anthologies
 
