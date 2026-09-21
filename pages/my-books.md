@@ -1,12 +1,9 @@
 ---
 title: My Books
+subtitle: "If you're looking for a new book to read, maybe I can tempt you."
 layout: page
 permalink: /my-books/
 ---
-
-# My Books
-
-If you're looking for a new book to read, maybe I can tempt you.
 
 ## Books
 
