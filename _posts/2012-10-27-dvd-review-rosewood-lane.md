@@ -7,7 +7,7 @@ categories: [movies]        # only use one of the following: [blog], [writing], 
 tags: [dvd-review]  # anything you want, e.g. [news], [reading], [general], 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/en/5/55/Rosewood_Lane_%28film%29.jpg" class="image-float-left" width="200" height="300" /><strong>Rosewood Lane</strong> is a horror/thriller movie starring Rose ~McGowan and Daniel Ross Owens.
+<img src="https://upload.wikimedia.org/wikipedia/en/5/55/Rosewood_Lane_%28film%29.jpg" style="float: left; padding-right: 20px; padding-bottom: 10px;" width="200" height="300" /><strong>Rosewood Lane</strong> is a horror/thriller movie starring Rose ~McGowan and Daniel Ross Owens.
 
 The synopsis reads: <em>Radio talk show therapist Sonny Blake moves back to her childhood home on seemingly idyllic Rosewood Lane after her alcoholic father dies. But upon arrival in the old neighbourhood, Sonny discovers her neighbours are terrified of the local paperboy. She thinks this is ridiculous, until she encounters the boy himself. It turns out that he is a cunning and dangerous sociopath, one who may have gruesomely killed her father... and others. When the boy starts to call Sonny's radio show and recite eerie nursery rhymes, an unnerving game of cat and mouse begins, one where Sonny starts to doubt her own sanity.</em>
 
