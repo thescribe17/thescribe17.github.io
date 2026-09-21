@@ -8,11 +8,6 @@ date_format: "%-d %B %Y"
 # Collections & defaults
 permalink: /:categories/:year/:month/:day/:title/
 
-collections:
-  books:
-    output: true
-    permalink: /books/:title/
-
 paginate: 10
 paginate_path: "/blog/page:num/"
 
