@@ -3,8 +3,8 @@ layout: post
 title: "Taking Steps to Build a Family"
 subtitle: "Genealogy"
 date: 2009-08-31 10:00:00 +1000
-categories: [blog]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gamimg], [technology], [genealogy], [movies], [craft]
-tags: [genealogy]  # anything you want, e.g. [news], [reading], [general], 
+categories: [genealogy]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gamimg], [technology], [genealogy], [movies], [craft]
+tags: []  # anything you want, e.g. [news], [reading], [general], 
 ---
 
 One of the new directions this website will be going, is Genealogy.  A new tab will be added to the navigation bar at the top of the page, as well as a new category added to the sidebar.

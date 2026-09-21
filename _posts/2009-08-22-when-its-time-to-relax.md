@@ -3,8 +3,8 @@ layout: post
 title: "When It's Time to Relax"
 subtitle: "Gaming"
 date: 2009-08-22 10:00:00 +1000
-categories: [blog]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gamimg], [technology], [genealogy], [movies], [craft]
-tags: [gaming]  # anything you want, e.g. [news], [reading], [general], 
+categories: [gaming]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gaming], [technology], [genealogy], [movies], [craft]
+tags: []  # anything you want, e.g. [news], [reading], [general], 
 ---
 
 <img style="float: left; padding-right: 20px; padding-bottom: 10px;" src="https://upload.wikimedia.org/wikipedia/en/5/58/Resident_Evil_5_Box_Artwork.jpg" alt="Resident Evil 5 " />No one can write all the time. Everyone has to have other hobbies in their lives to ensure a heavy, happy existence. Or so I’ve been told.

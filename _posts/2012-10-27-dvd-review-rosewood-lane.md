@@ -3,7 +3,7 @@ layout: post
 title: "Rosewood Lane"
 subtitle: "DVD Review"
 date: 2012-10-27 10:00:00 +1000
-categories: [blog]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gamimg], [technology], [genealogy], [movies], [craft]
+categories: [movies]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gamimg], [technology], [genealogy], [movies], [craft]
 tags: [dvd-review]  # anything you want, e.g. [news], [reading], [general], 
 ---
 
