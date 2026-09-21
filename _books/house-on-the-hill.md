@@ -10,7 +10,7 @@ edition: "1st"
 genre: "Children’s Fiction (9+), Adventure"
 formats: ["paperback", "kindle"]
 pages: 118
-cover_image: /assets/images/books/house-on-the-hill.jpg
+cover_image: /assets/img/HouseontheHill-300wide2.jpg
 layout: book
 ---
 
