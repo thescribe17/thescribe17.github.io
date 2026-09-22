@@ -19,7 +19,7 @@ layout: default
         {{ post.date | date: site.date_format }}
       </p>
       <div class="excerpt">
-        {{ post.excerpt | strip_html }}
+        {{ post.excerpt | replace_regex: '<img.*?>', ''}}
       </div>
       <p><a href="{{ post.url | relative_url }}">Read more &raquo;</a></p>
     </article>
