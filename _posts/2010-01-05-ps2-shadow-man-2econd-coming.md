@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shadow Man: 2econd Coming"
+title: "PS2: Shadow Man: 2econd Coming"
 subtitle: "Gaming"
 date: 2010-01-05 10:00:00 +1000
 categories: [gaming]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gaming], [technology], [genealogy], [movies], [craft]
