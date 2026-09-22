@@ -105,6 +105,16 @@ body {
   }
 }
 
+.float-left {
+  float: left;
+  padding-right: 20px;
+  width: 192px;
+}
+
+.text-center {
+  text-align: center;
+}
+
 /* ===========================
    Blog List Post Headings
    =========================== */
