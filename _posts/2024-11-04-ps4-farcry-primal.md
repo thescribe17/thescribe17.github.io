@@ -7,7 +7,7 @@ categories: [gaming]        # only use one of the following: [blog], [writing], 
 tags: []  # anything you want, e.g. [news], [reading], [general], 
 ---
 
-<img src="https://m.media-amazon.com/images/I/91OkEj2msVL._AC_SX679_.jpg" alt="" width="199" height="281" style="float:left;padding-right:20px;"/>
+<img src="https://m.media-amazon.com/images/I/91OkEj2msVL._AC_SX679_.jpg" alt="" width="199" height="281" class="image:float-left;padding-right:20px;"/>
 
 ## Rating: 4 of 5
 
