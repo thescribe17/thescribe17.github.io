@@ -7,7 +7,7 @@ categories: [gaming]        # only use one of the following: [blog], [writing], 
 tags: []  # anything you want, e.g. [news], [reading], [general], 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Heavy_Rain_Cover_Art.jpg" alt="" width="225" height="225" class="image-float-left" />
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Heavy_Rain_Cover_Art.jpg" alt="" width="225" height="225" class="image:float-left;" />
 
 ''Description:'' <em>Heavy Rain</em> is an interactive action-adventure psychological thriller video game created by French developer Quantic Dream exclusively for the ~PlayStation 3. The game is written and directed by Quantic Dream's founder and CEO David Cage. <em>Heavy Rain</em>'s story is a dramatic thriller modelled after film noir, featuring four protagonists involved with the mystery of the Origami Killer, a serial killer who uses extended periods of rainfall to drown his victims.
 
