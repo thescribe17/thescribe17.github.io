@@ -9,8 +9,6 @@ layout: default
     {% endif %}
   </header>
 
-  {{ post.excerpt | replace_regex: '<img.*?>', '' }}
-
   {% for post in paginator.posts %}
     <article class="post-excerpt">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
@@ -21,7 +19,7 @@ layout: default
         {{ post.date | date: site.date_format }}
       </p>
       <div class="excerpt">
-        {{ post.excerpt }}
+        {{ post.excerpt | strip_html }}
       </div>
       <p><a href="{{ post.url | relative_url }}">Read more &raquo;</a></p>
     </article>
