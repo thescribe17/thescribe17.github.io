@@ -7,7 +7,7 @@ categories: [gaming]        # only use one of the following: [blog], [writing], 
 tags: []  # anything you want, e.g. [news], [reading], [general], 
 ---
 
-![Shadow Man: 2econd Coming](https://upload.wikimedia.org/wikipedia/en/6/6d/Shadow_Man_Second_Coming.jpg){: .float-left }
+<img src="https://upload.wikimedia.org/wikipedia/en/6/6d/Shadow_Man_Second_Coming.jpg" alt="" width="192" height="250" style="float:left;padding-right:20px;"/>
 
 As I'm on holiday for a couple of weeks, I generally play video games on a regular basis – most days, in fact. This holiday season, I chose to play *Shadow Man: 2econd Coming*, which is a game I started once before but never actually finished.
 
@@ -27,5 +27,4 @@ Pushing the frustration aside, this is a brilliant game. The graphics aren’t a
 
 Yes, the game is on PS2, but don’t let a small thing like that stop you from enjoying a great game. Get yourself a console and the game and get started on it today. You won’t be disappointed. I highly recommend this game.
 
-{: .text-center }
-The image is courtesy of [Wikipedia](https://en.wikipedia.org/wiki/Shadow_Man:_2econd_Coming).
+<p class="has-text-align-center">The image is curtesy of <a href="https://en.wikipedia.org/wiki/Shadow_Man:_2econd_Coming" target="_blank" rel="noreferrer noopener">Wikipedia</a>.</p>
