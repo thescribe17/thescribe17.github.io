@@ -7,7 +7,7 @@ categories: [movies]        # only use one of the following: [blog], [writing], 
 tags: [dvd-review]  # anything you want, e.g. [news], [reading], [general], 
 ---
 
-<img src="http://ecx.images-amazon.com/images/I/51q%2BiKnnHEL.jpg" alt="Battleship DVD" style="image:float-left;" width="140" height="193" />We recently sat down and watched <strong>Battleship</strong> starring Taylor Kitsch, Alexander Skarsgard, Rihanna and Liam Neeson. It is described as "an epic action-adventure that unfolds across the seas, in the skies and over land as our planet fights for survival against a superior force".
+<img src="http://ecx.images-amazon.com/images/I/51q%2BiKnnHEL.jpg" alt="Battleship DVD" style="float: left; padding-right: 20px" width="140" height="193" />We recently sat down and watched <strong>Battleship</strong> starring Taylor Kitsch, Alexander Skarsgard, Rihanna and Liam Neeson. It is described as "an epic action-adventure that unfolds across the seas, in the skies and over land as our planet fights for survival against a superior force".
 
 When it first started I thought we had the wrong DVD in the case. However, the cast were right so we really didn't know what was going on. The set up resembled a cross between a comedy and a romance story, but we were expecting action so I started to get restless. It took FOREVER to really get started. In all honesty, if the first 40 or so minutes were cut right back to less than 10 minutes it would have been much better. 
 
