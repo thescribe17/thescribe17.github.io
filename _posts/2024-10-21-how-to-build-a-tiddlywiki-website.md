@@ -39,5 +39,5 @@ Once you have a general idea how the software works, there are two options:
 More on both of these options later.
 
 <div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
-  <strong>Go to the next post: <a href="{% post_url _posts/2024-10-23-set-up-a-github-account %}Set up a GitHub account »</a></strong>
+  <strong>Go to the next post: [Set up a GitHub account »]({% post_url 2024-10-23-set-up-a-github-account %})</strong>
 </div>
