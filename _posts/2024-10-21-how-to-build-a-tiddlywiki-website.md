@@ -3,7 +3,7 @@ layout: post
 title: "How to Build a Tiddlywiki Website"
 subtitle: "Tiddlywiki"
 date: 2024-10-21 10:00:00 +1000
-categories: [blog]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gaming], [technology], [genealogy], [movies], [craft]
+categories: [technology]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gaming], [technology], [genealogy], [movies], [craft]
 tags: [general]  # anything you want, e.g. [news], [reading], [general], 
 ---
 
