@@ -7,8 +7,10 @@ categories: [blog]        # only use one of the following: [blog], [writing], [e
 tags: [general]  # anything you want, e.g. [news], [reading], [general], 
 ---
 
+**Go to the first post in this series: [How to Build a Tiddlywiki Website »]({% post_url 2024-10-21-how-to-build-a-tiddlywiki-website %})**
+
 <div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
-  <strong>Go to the first post in this series: <a href="blog/2024-10-21-how-to-build-a-tiddlywiki-website.md">How to build a Tiddlywiki website »</a></strong>
+  <strong> <a href="blog/2024-10-21-how-to-build-a-tiddlywiki-website.md">How to build a Tiddlywiki website »</a></strong>
 </div>
 
 GitHub is an open source website hosting service. If you already have a hosting service and are happy with them, then you can skip this step altogether. However, this step-by-step instruction on transferring your Wordpress website to Tiddlywiki includes swapping the way your website is hosted too.
@@ -31,6 +33,4 @@ You should see an empty Tiddlywiki. You can navigate around it, but at this stag
 
 I recommend that you practice what you just learned a couple of times to get the hang of it. And yes, you can upload a Tiddlywiki file with content already in it. But, remember, you cannot make changes while it's online just yet. Those instructions will come later.
 
-<div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
-  <strong>Go to the next post: <a href="obtaining-a-usable-cvs-file-from-wordpress.md">Obtaining a usable CSV file from Wordpress »</a></strong>
-</div>
+**Go to the next post: [Obtaining a usable CSV file from Wordpress »]({% post_url 2024-11-04-obtaining-a-usable-cvs-file-from-wordpress %})**

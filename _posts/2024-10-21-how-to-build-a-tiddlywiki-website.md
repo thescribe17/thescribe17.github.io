@@ -25,22 +25,15 @@ The version of Tiddlywiki that I use to create the website will remain usable fo
 
 Anyway, that's the plan. I will swap my Wordpress website over to a Tiddlywiki website. I'm not saying it will be easy. In fact, I know that it will be difficult for me as I am not IT minded. But I love Tiddlywiki and I love the thought of the challenge to achieve the end result. And I intend to document the process as I go so that other non-technical minded website owners can follow suit, if they want.
 
-So, first step in the journey is to head over to the [[Tiddlywiki website|https://tiddlywiki.com/]] and download an empty wiki.
+So, first step in the journey is to head over to the <https://tiddlywiki.com/> and download an empty wiki.
 
 I recommend playing around in the empty wiki to get used to it first. There are lots of hints and tips to go through on the official website. This will give you a good understanding on how the software works prior to starting your website project.
 
 Once you have a general idea how the software works, there are two options:
 
-``
 1. You can change the file from empty.html to index.html and create a one file website. This is fine if your website isn't too big.
 2. Use a command line to create a "pages" website.
-``
 
 More on both of these options later.
 
-  Go to the next post: [Set up a GitHub account »]({% post_url 2024-10-23-set-up-a-github-account %})
-
-
-<div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
-  Go to the next post: [Set up a GitHub account »]({% post_url 2024-10-23-set-up-a-github-account %})
-</div>
+**Go to the next post: [Set up a GitHub account »]({% post_url 2024-10-23-set-up-a-github-account %})**
