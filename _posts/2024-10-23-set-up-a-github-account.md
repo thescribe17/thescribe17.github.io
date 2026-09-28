@@ -7,7 +7,8 @@ categories: [blog]        # only use one of the following: [blog], [writing], [e
 tags: [general]  # anything you want, e.g. [news], [reading], [general], 
 ---
 
-**Go to the first post in this series: [How to Build a Tiddlywiki Website »]({% post_url 2024-10-21-how-to-build-a-tiddlywiki-website %})**
+!Note
+Go to the first post in this series: [How to Build a Tiddlywiki Website »]({% post_url 2024-10-21-how-to-build-a-tiddlywiki-website %})
 
 GitHub is an open source website hosting service. If you already have a hosting service and are happy with them, then you can skip this step altogether. However, this step-by-step instruction on transferring your Wordpress website to Tiddlywiki includes swapping the way your website is hosted too.
 
