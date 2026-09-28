@@ -23,7 +23,7 @@ On this page you will find subjects NOT related to reading, writing and publishi
       </li>
     {% endfor %}
   {% else %}
-    <li>No author interviews have been posted yet.</li>
+    <li>No gaming posts have been posted yet.</li>
   {% endif %}
 </ul>
 
@@ -39,7 +39,7 @@ On this page you will find subjects NOT related to reading, writing and publishi
       </li>
     {% endfor %}
   {% else %}
-    <li>No author interviews have been posted yet.</li>
+    <li>No technology posts have been posted yet.</li>
   {% endif %}
 </ul>
 
@@ -55,7 +55,7 @@ On this page you will find subjects NOT related to reading, writing and publishi
       </li>
     {% endfor %}
   {% else %}
-    <li>No author interviews have been posted yet.</li>
+    <li>No genealogy posts have been posted yet.</li>
   {% endif %}
 </ul>
 
@@ -71,7 +71,7 @@ On this page you will find subjects NOT related to reading, writing and publishi
       </li>
     {% endfor %}
   {% else %}
-    <li>No author interviews have been posted yet.</li>
+    <li>No movie posts have been posted yet.</li>
   {% endif %}
 </ul>
 
@@ -87,7 +87,7 @@ On this page you will find subjects NOT related to reading, writing and publishi
       </li>
     {% endfor %}
   {% else %}
-    <li>No author interviews have been posted yet.</li>
+    <li>No craft posts have been posted yet.</li>
   {% endif %}
 </ul>
 
