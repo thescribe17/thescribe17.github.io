@@ -36,4 +36,4 @@ Once you have a general idea how the software works, there are two options:
 
 More on both of these options later.
 
-**Go to the next post: [Set up a GitHub account »]({% post_url 2024-10-23-set-up-a-github-account %})**
+Go to the next post: [Set up a GitHub account »]({% post_url 2024-10-23-set-up-a-github-account %})
