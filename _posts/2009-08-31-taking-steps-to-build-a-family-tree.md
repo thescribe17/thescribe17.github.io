@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Taking Steps to Build a Family"
+title: "Taking Steps to Build a Family Tree"
 subtitle: "Genealogy"
 date: 2009-08-31 10:00:00 +1000
 categories: [genealogy]        # only use one of the following: [blog], [writing], [editing], [publishing], [book-review], [author-interview], [gamimg], [technology], [genealogy], [movies], [craft]
