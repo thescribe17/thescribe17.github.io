@@ -8,7 +8,7 @@ tags: [general]  # anything you want, e.g. [news], [reading], [general],
 ---
 
 <div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
-  <strong>Go to the first post in this series: [[How to build a Tiddlywiki website]]</strong>
+  <strong>Go to the first post in this series: <a href="blog/2024-10-21-how-to-build-a-tiddlywiki-website.md">How to build a Tiddlywiki website »</a></strong>
 </div>
 
 GitHub is an open source website hosting service. If you already have a hosting service and are happy with them, then you can skip this step altogether. However, this step-by-step instruction on transferring your Wordpress website to Tiddlywiki includes swapping the way your website is hosted too.
@@ -25,12 +25,12 @@ Make sure "Public" is chosen in the next section. I would recommend ticking "Add
 
 Well done. You've created a repository, but there's nothing in it yet. Remember that empty tiddlywiki you downloaded in the previous step and I told you to change the name to index.html? Well, click on the repository you just created, and you should be able to see the README file. Now click on "Add File" and then "Upload files". Upload the index.html file. 
 
-Navigate to ~https://username.github.io (replacing username with your actual user name, of course).
+Navigate to https://username.github.io (replacing username with your actual user name, of course).
 
 You should see an empty Tiddlywiki. You can navigate around it, but at this stage you cannot save any changes, so don't get carried away and put tons of data in there yet as you'll be wasting your time and energy.
 
 I recommend that you practice what you just learned a couple of times to get the hang of it. And yes, you can upload a Tiddlywiki file with content already in it. But, remember, you cannot make changes while it's online just yet. Those instructions will come later.
 
 <div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
-  <strong>Go to the next post: [[Obtaining a usable CSV file from Wordpress]]</strong>
+  <strong>Go to the next post: <a href="obtaining-a-usable-cvs-file-from-wordpress.md">Obtaining a usable CSV file from Wordpress »</a></strong>
 </div>
