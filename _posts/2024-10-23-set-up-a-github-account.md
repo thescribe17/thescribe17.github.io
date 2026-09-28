@@ -9,10 +9,6 @@ tags: [general]  # anything you want, e.g. [news], [reading], [general],
 
 **Go to the first post in this series: [How to Build a Tiddlywiki Website »]({% post_url 2024-10-21-how-to-build-a-tiddlywiki-website %})**
 
-<div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
-  <strong> <a href="blog/2024-10-21-how-to-build-a-tiddlywiki-website.md">How to build a Tiddlywiki website »</a></strong>
-</div>
-
 GitHub is an open source website hosting service. If you already have a hosting service and are happy with them, then you can skip this step altogether. However, this step-by-step instruction on transferring your Wordpress website to Tiddlywiki includes swapping the way your website is hosted too.
 
 If you are still with me, go to GitHub and create an account. Now, don't freak out when you get to your new GitHub Dashboard. I had an account for several months before I decided to make the move, so when I logged into GitHub the first time, I honestly had no idea what I was looking at or how to use it. At the time, I had no incentive to learn either so I logged out and didn't go back.
