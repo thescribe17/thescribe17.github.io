@@ -31,13 +31,13 @@ I recommend playing around in the empty wiki to get used to it first. There are 
 
 Once you have a general idea how the software works, there are two options:
 
-"""
+`
 1. You can change the file from empty.html to index.html and create a one file website. This is fine if your website isn't too big.
 2. Use a command line to create a "pages" website.
-"""
+`
 
 More on both of these options later.
 
 <div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
-  <strong>Go to the next post: [Set up a GitHub account »]({% post_url 2024-10-23-set-up-a-github-account %})</strong>
+  Go to the next post: [Set up a GitHub account »]({% post_url 2024-10-23-set-up-a-github-account %})
 </div>
