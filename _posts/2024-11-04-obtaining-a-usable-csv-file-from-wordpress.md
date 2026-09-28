@@ -9,6 +9,7 @@ tags: [general]  # anything you want, e.g. [news], [reading], [general],
 
 <div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
   <strong>Go to the first post in this series: <a href="blog/2024-10-21-how-to-build-a-tiddlywiki-website.md">How to build a Tiddlywiki website »</a></strong>
+  </div>
 
 If you are following these step-by-step instructions on building a Tiddlywiki website, you should have a copy of Tiddlywiki that you've been "playing" with and now you should be ready for the next step in the process of transferring your website from Wordpress to Tiddlywiki.
 
