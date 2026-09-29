@@ -2,7 +2,7 @@
 layout: post
 title: "Writing for Children Resources"
 subtitle: "Writing Resources"
-date: 2005-08-22 10:00:00 +1000
+date: 2005-08-25 10:00:00 +1000
 categories: [writing]
 tags: [writing-for-children] [resources]
 ---
