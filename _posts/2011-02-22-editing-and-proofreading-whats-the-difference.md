@@ -13,13 +13,15 @@ tags: [editing-course]  # anything you want, e.g. [news], [reading], [general],
 
 <p>There are two types of editing:</p>
 
-<p>1. *<strong>Substantive Editing</strong> for structure and substance.<br>2. *<strong>Copyediting</strong> for improvement of grammar, punctuation, factualness and formatting.</p>
+<p>1. <strong>Substantive Editing</strong> for structure and substance.<br>
+2. <strong>Copyediting</strong> for improvement of grammar, punctuation, factualness and formatting.</p>
 
 <p>There are two types of proofreading:</p>
 
-<p>1. *<strong>Proofreading</strong> to correct mistakes in text.<br>2. <strong>Comparative Proofreading</strong> to compare live copy (corrected text) against dead copy (original text that was marked up).</p>
+<p>1. <strong>Proofreading</strong> to correct mistakes in text.<br>
+2. <strong>Comparative Proofreading</strong> to compare live copy (corrected text) against dead copy (original text that was marked up).</p>
 
-<p><em>* The division between these can be quite grey though.</em></p>
+<p><em>The division between these can be quite grey though.</em></p>
 
 <p><strong><u>EDITING</u>:</strong></p>
 
