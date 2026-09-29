@@ -2,8 +2,8 @@
 layout: post
 title: "Five Editing Tips That Strengthen Any Story"
 date: 2026-09-10 10:00:00 +1000
-categories: [editing, writing]
-tags: [writing]
+categories: [publishing]
+tags: [writing, editing]
 ---
 
 Editing is where a story truly comes to life. It’s the stage where rough ideas sharpen into clear moments, characters deepen, and pacing finds its rhythm. Here are five simple editing tips that can strengthen any story:

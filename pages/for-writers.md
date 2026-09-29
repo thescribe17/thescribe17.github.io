@@ -27,27 +27,11 @@ If you should find problem links, please send me a quick email by using the cont
       </li>
     {% endfor %}
   {% else %}
-    <li>No author interviews have been posted yet.</li>
+    <li>No writing posts have been posted yet.</li>
   {% endif %}
 </ul>
 
-## Posts on Editing
-
-<ul>
-  {% assign posts = site.categories.editing %}
-  {% if posts and posts.size > 0 %}
-    {% for post in posts %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span>({{ post.date | date: "%Y-%m-%d" }})</span>
-      </li>
-    {% endfor %}
-  {% else %}
-    <li>No author interviews have been posted yet.</li>
-  {% endif %}
-</ul>
-
-## Posts on Publishing
+## Posts on Publishing and Editing
 
 <ul>
   {% assign posts = site.categories.publishing %}
@@ -59,7 +43,7 @@ If you should find problem links, please send me a quick email by using the cont
       </li>
     {% endfor %}
   {% else %}
-    <li>No author interviews have been posted yet.</li>
+    <li>No publishing or editing posts have been posted yet.</li>
   {% endif %}
 </ul>
 
