@@ -30,4 +30,4 @@ You should see an empty Tiddlywiki. You can navigate around it, but at this stag
 
 I recommend that you practice what you just learned a couple of times to get the hang of it. And yes, you can upload a Tiddlywiki file with content already in it. But, remember, you cannot make changes while it's online just yet. Those instructions will come later.
 
-**Go to the next post: [Obtaining a usable CSV file from Wordpress »]({% post_url 2024-11-04-obtaining-a-usable-cvs-file-from-wordpress %})**
+**Go to the next post: [Obtaining a usable CSV file from Wordpress »]({% post_url 2024-11-04-obtaining-a-usable-csv-file-from-wordpress %})**
