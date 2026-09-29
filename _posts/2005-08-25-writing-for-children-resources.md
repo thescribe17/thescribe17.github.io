@@ -4,7 +4,7 @@ title: "Writing for Children Resources"
 subtitle: "Writing Resources"
 date: 2005-08-25 10:00:00 +1000
 categories: [writing]
-tags: [writing-for-children] [resources]
+tags: [writing-for-children, resources]
 ---
 
 <a href="http://www.scbwi.ampl.com.au/">Australian Society of Children's Book Writers & Illustrators</a> - I'm not sure how useful this site will be but as it concentrates on the Australian sector of children's writers I have to include it here.
