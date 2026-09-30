@@ -1,19 +1,25 @@
 ---
 layout: post
-title: "add the title here" # make sure this is updated
-subtitle: "eBook Review" # Book, eBook or Audiobook
-date: YYYY-MM-DD
+title: "Book Title"
+subtitle: "eBook Review"
+date: YYYY-MM-DD 10:00:00 +1000
 categories: [book-review]
-tags: [reading, ebooks] # book, ebook or audiobook
+tags: [reading, ebooks]
 rating: "4 of 5 stars"
+format: ebook
+author: "Author Name"
 ---
 
-## Title of book
-**My rating:** 4 of 5 stars
+## Book Title
+
+**Author:** {{ page.author }}
+
+**My rating:** {{ page.rating }}
 
 ### The blurb
-<!-- Place the blurb here. -->
+
+Blurb goes here.
 
 ### My review
-<!-- Review goes here -->  
 
+Review goes here.

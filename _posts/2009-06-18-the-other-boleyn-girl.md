@@ -1,25 +1,26 @@
 ---
 layout: post
 title: "The Other Boleyn Girl"
-subtitle: Book Review
+subtitle: "eBook Review"
 date: 2009-06-18 10:00:00 +1000
 categories: [book-review]
 tags: [reading, books]
+rating: "4 of 5 stars"
+format: bbook
+author: "Philippa Gregory"
 ---
 
-<p>
-<img
-src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922837i/31084.jpg"
-alt="The Other Boleyn Girl"
-width="155"
-height="238"
-class="float-left"
->
-</p>
+## Book Title
 
-**The Other Boleyn Girl by Philippa Gregory**
+**Author:** {{ page.author }}
 
-**My rating: 4 of 5 stars**
+**My rating:** {{ page.rating }}
+
+### The blurb
+
+Blurb goes here.
+
+### My review
 
 I belong to a reading community called Goodreads. You may have noticed their widgets in the right sidebar announcing to the world what I'm reading and what I have read. Part of this community is having access to book reviews. I thought it might be a useful tool when trying to decide what I'm going to read in the future and for finding authors I haven't read before.
 
