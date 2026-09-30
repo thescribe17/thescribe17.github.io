@@ -1,13 +1,27 @@
 ---
 layout: post
 title: "Drowned Wednesday"
-subtitle: Book Review
+subtitle: "Book Review" # book, ebook or audio
 date: 2005-08-19 10:00:00 +1000
 categories: [book-review]
 tags: [reading, books]
+rating: "3.5 of 5 stars"
+format: book # book, ebook or audio
+author: "Garth Nix"
+series: "(Keys to the Kingdom, Book 3)"
 ---
 
-**My Review:**
+**Title:** {{ page.title }} {{ page.series }} by {{ page.author }}
+
+**Format:** {{ page.format }}
+
+**My rating:** {{ page.rating }}
+
+### The blurb
+
+Drowned Wednesday sweeps Arthur Penhaligon from a hospital bed into the Border Sea, where an immense, gluttonous mariner-queen awaits. To win the Third Key, he must endure pirates, monstrous creatures, treacherous magic, and strange alliances while racing to rescue friends and outwit a deadly pirate lord.
+
+### My review
 
 Well, what can I say, I've outdone myself and managed to read Drowned Wednesday (Keys to the Kingdom, Book 3) in under two weeks. Not often does that happen.
 

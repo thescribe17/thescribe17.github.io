@@ -1,26 +1,27 @@
 ---
 layout: post
 title: "The Little Country"
-subtitle: Book Review
+subtitle: "Book Review"
 date: 2005-08-06 10:00:00 +1000
 categories: [book-review]
 tags: [reading, books]
+rating: "3 of 5 stars"
+format: book
+author: "Charles de Lint"
+series: 
 ---
 
-<div class="book-header">
+**Title:** {{ page.title }} {{ page.series }} by {{ page.author }}
 
-<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388790243i/186445.jpg" />
+**Format:** {{ page.format }}
 
-  <div class="book-info">
-  
-  <p><b>Book Rating:</b> 3 of 5 stars</p>
+**My rating:** {{ page.rating }}
 
-  <p><b>Book Blurb:</b> "When folk musician Janey Little finds a mysterious manuscript in an old trunk in her grandfather's cottage, she is swept into a dangerous realm both strange and familiar. But true magic lurks within the pages of <em>The Little Country</em>, drawing genuine danger from across the oceans into Janey's life, impelling her—armed only with her music—toward a terrifying confrontation."</p>
+### The blurb
 
-  </div>
-</div>
+When folk musician Janey Little finds a mysterious manuscript in an old trunk in her grandfather's cottage, she is swept into a dangerous realm both strange and familiar. But true magic lurks within the pages of <em>The Little Country</em>, drawing genuine danger from across the oceans into Janey's life, impelling her—armed only with her music—toward a terrifying confrontation.
 
-**My Review:**
+### My review
 
 You would have noticed by the sidebar that I've been reading *The Little Country* by Charles de Lint. Last night I finished it.
 

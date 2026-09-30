@@ -12,7 +12,7 @@ author: "Philippa Gregory"
 
 **Title:** {{ page.title }} by {{ page.author }}
 
-**Format:** {{ page.rating }}
+**Format:** {{ page.format }}
 
 **My rating:** {{ page.rating }}
 
