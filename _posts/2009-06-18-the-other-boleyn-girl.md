@@ -10,7 +10,7 @@ format: book
 author: "Philippa Gregory"
 ---
 
-**Title:** {{ page.title }} by {{ page.author }}
+## Title: {{ page.title }} by {{ page.author }}
 
 **Format:** {{ page.format }}
 
