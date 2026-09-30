@@ -8,9 +8,10 @@ tags: [reading, books]
 rating: "4 of 5 stars"
 format: book
 author: "Philippa Gregory"
+series: 
 ---
 
-## Title: {{ page.title }} by {{ page.author }}
+### {{ page.title }} {{ page.series }} by {{ page.author }}
 
 **Format:** {{ page.format }}
 

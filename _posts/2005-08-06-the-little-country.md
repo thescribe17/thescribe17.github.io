@@ -11,7 +11,7 @@ author: "Charles de Lint"
 series: 
 ---
 
-**Title:** {{ page.title }} {{ page.series }} by {{ page.author }}
+### {{ page.title }} {{ page.series }} by {{ page.author }}
 
 **Format:** {{ page.format }}
 

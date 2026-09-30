@@ -11,7 +11,7 @@ author: "Garth Nix"
 series: "(Keys to the Kingdom, Book 3)"
 ---
 
-**Title:** {{ page.title }} {{ page.series }} by {{ page.author }}
+### {{ page.title }} {{ page.series }} by {{ page.author }}
 
 **Format:** {{ page.format }}
 
