@@ -11,16 +11,16 @@ author: "Author Name"
 series: 
 ---
 
-**Title:** {{ page.title }} {{ page.series }} by {{ page.author }}
+### {{ page.title }} {{ page.series }} by {{ page.author }}
 
 **Format:** {{ page.format }}
 
 **My rating:** {{ page.rating }}
 
-### The blurb
+### Blurb:
 
 Blurb goes here.
 
-### My review
+### My review:
 
 Review goes here.

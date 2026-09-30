@@ -17,11 +17,11 @@ series: "(Keys to the Kingdom, Book 3)"
 
 **My rating:** {{ page.rating }}
 
-### The blurb
+### Blurb:
 
 Drowned Wednesday sweeps Arthur Penhaligon from a hospital bed into the Border Sea, where an immense, gluttonous mariner-queen awaits. To win the Third Key, he must endure pirates, monstrous creatures, treacherous magic, and strange alliances while racing to rescue friends and outwit a deadly pirate lord.
 
-### My review
+### My review:
 
 Well, what can I say, I've outdone myself and managed to read Drowned Wednesday (Keys to the Kingdom, Book 3) in under two weeks. Not often does that happen.
 

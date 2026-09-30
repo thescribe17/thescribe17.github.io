@@ -17,7 +17,7 @@ series:
 
 **My rating:** {{ page.rating }}
 
-### The blurb
+### Blurb:
 
 _Two sisters competing for the greatest prize: The love of a king_
 
@@ -25,7 +25,7 @@ When Mary Boleyn comes to court as an innocent girl of fourteen, she catches the
 
 A rich and compelling novel of love, sex, ambition, and intrigue, The Other Boleyn Girl introduces a woman of extraordinary determination and desire who lived at the heart of the most exciting and glamourous court in Europe and survived by following her heart.
 
-### My review
+### My review:
 
 I belong to a reading community called Goodreads. You may have noticed their widgets in the right sidebar announcing to the world what I'm reading and what I have read. Part of this community is having access to book reviews. I thought it might be a useful tool when trying to decide what I'm going to read in the future and for finding authors I haven't read before.
 

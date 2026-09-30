@@ -17,11 +17,11 @@ series:
 
 **My rating:** {{ page.rating }}
 
-### The blurb
+### Blurb:
 
 When folk musician Janey Little finds a mysterious manuscript in an old trunk in her grandfather's cottage, she is swept into a dangerous realm both strange and familiar. But true magic lurks within the pages of <em>The Little Country</em>, drawing genuine danger from across the oceans into Janey's life, impelling her—armed only with her music—toward a terrifying confrontation.
 
-### My review
+### My review:
 
 You would have noticed by the sidebar that I've been reading *The Little Country* by Charles de Lint. Last night I finished it.
 
@@ -34,4 +34,3 @@ You would have noticed by the sidebar that I've been reading *The Little Country
 <p>The cons were that there were several scenes that I felt were there for shock purposes. This book certainly is not recommended to under 18 year olds. Then again, that might be me being a bit of a prude. That aside, there were some awkward sentences that broke the flow and a fair bit of head hopping (which I find annoying).</p>
 
 <p>Overall, this was a good read. I feel that if I had given the book more time and read it quicker then I would have gotten deeper into both stories and would have loved it but time is something I don't have a lot of so it took me a couple of months to read the 630 pages. It was worth it.</p>
-
