@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "The Other Boleyn Girl"
-subtitle: "eBook Review"
+subtitle: "Book Review"
 date: 2009-06-18 10:00:00 +1000
 categories: [book-review]
 tags: [reading, books]
 rating: "4 of 5 stars"
-format: bbook
+format: book
 author: "Philippa Gregory"
 ---
 
-## Book Title
+**Title:** {{ page.title }} by {{ page.author }}
 
-**Author:** {{ page.author }}
+**Format:** {{ page.rating }}
 
 **My rating:** {{ page.rating }}
 
