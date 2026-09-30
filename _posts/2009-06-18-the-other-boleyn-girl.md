@@ -7,7 +7,7 @@ categories: [book-review]
 tags: [reading, books]
 ---
 
-<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922837i/31084.jpg" alt="" width="155" height="238"/>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922837i/31084.jpg" alt="" width="155" height="238" class="image:float-left;padding-right:20px;/>
 
 **The Other Boleyn Girl by Philippa Gregory**
 
