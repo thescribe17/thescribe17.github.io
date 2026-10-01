@@ -17,7 +17,7 @@ series:
 
 **My rating:** {{ page.rating}}
 
-{% include star-rating.html rating=page.rating | plus: 0 %}
+{% include star-rating.html rating=page.rating | cast: integer %}
 
 ### Blurb:
 
