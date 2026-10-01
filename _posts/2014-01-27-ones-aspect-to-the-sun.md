@@ -3,7 +3,7 @@ layout: post
 title: "One's Aspect to the Sun"
 subtitle: "eBook Review"
 date: 2014-01-27 10:00:00 +1000
-categories: [ebook-review]
+categories: [book-review]
 tags: [reading, ebooks]
 rating: "4 of 5 stars"
 format: eBook
