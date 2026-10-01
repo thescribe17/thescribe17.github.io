@@ -6,7 +6,7 @@ date: 2005-08-19 10:00:00 +1000
 categories: [book-review]
 tags: [reading, books]
 rating: "3.5 of 5 stars"
-format: book # book, ebook or audio
+format: Book # book, ebook or audio
 author: "Garth Nix"
 series: "(Keys to the Kingdom, Book 3)"
 ---
