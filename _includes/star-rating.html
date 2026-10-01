@@ -4,7 +4,10 @@
 
 {% assign empty = 5 | minus: full %}
 
-{% for i in (1..full) %}
+{% assign rating = page.rating | plus: 0 %}
+{% for i in (1..rating) %}
+  ⭐
+{% endfor %}
 ★
 {% endfor %}
 
