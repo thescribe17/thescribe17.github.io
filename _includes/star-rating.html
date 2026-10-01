@@ -1,18 +1,13 @@
 {% assign rating = include.rating | plus: 0 %}
 {% assign full = rating | floor %}
-{% assign remainder = rating | modulo: 1 %}
-
+{% assign remainder = rating | minus: full %}
 {% assign empty = 5 | minus: full %}
 
-{% assign rating = page.rating | plus: 0 %}
-{% for i in (1..rating) %}
-  ⭐
-{% endfor %}
+<span class="book-rating">
+{% for i in (1..full) %}⭐{% endfor %}
 {% if remainder >= 0.5 %}
 ½
 {% assign empty = empty | minus: 1 %}
 {% endif %}
-
-{% for i in (1..empty) %}
-☆
-{% endfor %}
+{% for i in (1..empty) %}☆{% endfor %}
+</span>

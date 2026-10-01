@@ -15,7 +15,9 @@ series:
 
 **Format:** {{ page.format }}
 
-**My rating:** {% include star-rating.html rating=page.rating %}
+**My rating:** {{ page.rating}}
+
+{% include star-rating.html rating=page.rating %}
 
 ### Blurb:
 
