@@ -6,7 +6,7 @@ date: 2005-08-06 10:00:00 +1000
 categories: [book-review]
 tags: [reading, books]
 rating: 3
-format: book
+format: Book
 author: "Charles de Lint"
 series: 
 ---
