@@ -11,7 +11,7 @@ author: "Philippa Gregory"
 series: 
 ---
 
-### {{ page.title }} {{ page.series }} by {{ page.author }}
+### {{ page.title }}{% if page.series %} {{ page.series }}{% endif %} by {{ page.author }}
 
 **Format:** {{ page.format }}
 
