@@ -17,8 +17,6 @@ series:
 
 **My rating:** {{ page.rating}}
 
-{% include star-rating.html rating=page.rating | cast: integer %}
-
 ### Blurb:
 
 When folk musician Janey Little finds a mysterious manuscript in an old trunk in her grandfather's cottage, she is swept into a dangerous realm both strange and familiar. But true magic lurks within the pages of <em>The Little Country</em>, drawing genuine danger from across the oceans into Janey's life, impelling her—armed only with her music—toward a terrifying confrontation.
