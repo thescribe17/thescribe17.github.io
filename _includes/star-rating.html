@@ -1,7 +1,7 @@
 {% assign rating = include.rating | plus: 0 %}
 {% assign full = rating | floor %}
 {% assign remainder = rating | minus: full %}
-{% assign empty = 5 | minus: full %}
+{% assign empty = 5 | minus: full | floor %}
 
 <span class="book-rating">
 {% for i in (1..full) %}⭐{% endfor %}
