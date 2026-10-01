@@ -5,7 +5,7 @@ subtitle: "Book Review"
 date: 2005-08-06 10:00:00 +1000
 categories: [book-review]
 tags: [reading, books]
-rating: 3
+rating: "3 of 5 stars"
 format: Book
 author: "Charles de Lint"
 series: 
@@ -15,7 +15,7 @@ series:
 
 **Format:** {{ page.format }}
 
-**My rating:** {{ page.rating}}
+**My rating:** {{ page.rating }}
 
 ### Blurb:
 
