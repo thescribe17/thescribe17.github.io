@@ -18,6 +18,8 @@ Below you will find my available books and publications. Some are a free downloa
 Use this <a href="https://books2read.com/ap/nlBja2/Karen-Lee-Field">universal link</a> to view all my books and purchase from the store of your choice.<br />
 Alternatively, browse below to find out more about my published books.
 
+<p><span style="display:block; height: 2px; background: linear-gradient(to right, transparent, #555, transparent); margin: 10px 0;"></span></p>
+
 All my books are available in paperback and various digital formats and are available from most online bookstores.
 
 <div class="book-header">
