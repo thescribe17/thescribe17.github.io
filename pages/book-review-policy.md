@@ -19,9 +19,9 @@ I love reading and normally review every book I read on this website as well as 
 
 If you are an author or publisher and want a book reviewed, I may be able to help. If your book meets the guidelines below, I will consider reading your book and writing a free review. 
 
-Be warned! It will be an **honest review**.
+Be warned! It will be an <b>honest review</b>.
 
-<center>***</center>
+<span style="display:block; height: 2px; background: linear-gradient(to right, transparent, #555, transparent); margin: 10px 0;"></span>
 </div>
 </div>
 
