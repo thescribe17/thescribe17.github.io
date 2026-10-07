@@ -13,7 +13,9 @@ permalink: /book-review-policy/
 
 <p><b>Important note:</b> I am not accepting books for review at present, _unless_ you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.</p>
 
-<center>***</center>
+<span style="display:block; text-align:center; margin: 10px 0;">
+  ✦ ✦ ✦
+</span>
 
 <p>I love reading and normally review every book I read on this website as well as on Goodreads and LibraryThing.</p>
 
