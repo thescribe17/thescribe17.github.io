@@ -11,7 +11,7 @@ permalink: /book-review-policy/
 
  <div class="book-info">
 
-<p><b>Important note:</b> I am not accepting books for review at present, _unless_ you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.</p>
+<p><b>Important note:</b> I am not accepting books for review at present, <i>unless</i> you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.</p>
 
 <span style="display:block; text-align:center; margin: 10px 0;">
   ✦ ✦ ✦
@@ -21,7 +21,7 @@ permalink: /book-review-policy/
 
 <p>If you are an author or publisher and want a book reviewed, I may be able to help. If your book meets the guidelines below, I will consider reading your book and writing a free review.</p>
 
-<p>Be warned! It will be an <b>honest review</b>.</p>
+<p>Be warned! It will be an <span style="font-weight: bold; color: #2196F3; font-size: 20px;">honest review</span>.</p>
 
 </div>
 </div>
