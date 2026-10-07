@@ -44,7 +44,9 @@ The headings on this page include:
 ## Book Review Policy
 
 <p>
-  The Book Review Policy page is coming soon.  
-  When ready, it will appear here:
-  <a href="/book-review-policy/">Book Review Policy</a>
+  I write reviews for all the books I read. However, due to life's challenges, I haven't been able to read over recent years. However, my circumstances have changed and I have started writing again and intend to start reading again too. 
+</p>
+
+<p>  
+  When I'm ready I will start offering book reviews for authors again. Here's my <a href="/book-review-policy/">Book Review Policy</a>.
 </p>
