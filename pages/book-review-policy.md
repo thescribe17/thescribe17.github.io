@@ -3,7 +3,6 @@ layout: page
 title: "Book Review Policy"
 subtitle: "Currently not accepting"
 permalink: /book-review-policy/
-Tags: [Policies]
 ---
 
 <div class="book-header">

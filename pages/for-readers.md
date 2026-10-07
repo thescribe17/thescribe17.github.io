@@ -46,5 +46,5 @@ The headings on this page include:
 <p>
   The Book Review Policy page is coming soon.  
   When ready, it will appear here:
-  <a href="/book-review-policy">Book Review Policy</a>
+  <a href="/book-review-policy/">Book Review Policy</a>
 </p>
