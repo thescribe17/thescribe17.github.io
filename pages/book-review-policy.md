@@ -18,6 +18,7 @@ permalink: /book-review-policy/
 I love reading and normally review every book I read on this website as well as on Goodreads and LibraryThing.
 
 If you are an author or publisher and want a book reviewed, I may be able to help. I will consider reading your book and writing an **honest review for free** if it meets the guidelines below.
+</div>
 
 **I definitely will consider** reading most categories for children, especially fantasy or adventure stories for the 9+ age group. Fantasy books for young adults and adults will also be well received. The other genres that I will consider, if the blurb and cover design catch my attention, are historical, Christain, cozy mysteries, romance, suspense and feel-good animal stories. I often read apocalyptic novels but am picky with other types of horror stories.
 
@@ -38,5 +39,4 @@ Please understand that providing me with a review copy of your book will not gua
 If your book fits the guidelines and you agree to my terms, please use the [contact page](/contact/) to provide details of the book – the blurb, details of genre, length, subject matter and a link to the book cover (I will use the cover in my review). I will respond to your enquiry within 48 hours where possible. I live in Australia, so please allow for time zone differences.
 
 Finally, if you have any questions or if the genre of your book is not mentioned above, go ahead and [contact me](/contact/).
-</div>
 </div>
