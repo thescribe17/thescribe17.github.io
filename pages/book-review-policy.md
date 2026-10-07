@@ -12,14 +12,14 @@ permalink: /book-review-policy/
  <div class="book-info">
 
 <b>Important note:</b> I am not accepting books for review at present, _unless_ you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.
-</div>
-</div>
 
 <center>***</center>
 
 I love reading and normally review every book I read on this website as well as on Goodreads and LibraryThing.
 
 If you are an author or publisher and want a book reviewed, I may be able to help. I will consider reading your book and writing an **honest review for free** if it meets the guidelines below.
+</div>
+</div>
 
 **I definitely will consider** reading most categories for children, especially fantasy or adventure stories for the 9+ age group. Fantasy books for young adults and adults will also be well received. The other genres that I will consider, if the blurb and cover design catch my attention, are historical, Christain, cozy mysteries, romance, suspense and feel-good animal stories. I often read apocalyptic novels but am picky with other types of horror stories.
 
