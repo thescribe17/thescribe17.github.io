@@ -7,7 +7,7 @@ permalink: /book-review-policy/
 
 <div class="book-header">
 
-<img src="{{ 'assets/img/reviewpolicy-no.jpg' | relative_url }}" alt="Not Accepting">
+<img src="{{ '/assets/img/reviewpolicy-no.jpg' | relative_url }}" alt="Not Accepting">
 
  <div class="book-info">
 
