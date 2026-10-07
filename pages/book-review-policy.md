@@ -5,15 +5,16 @@ subtitle: "Currently not accepting"
 permalink: /book-review-policy/
 ---
 
-<img src="{{ 'assets/img/ReviewPolicy-No.jpg' | relative_url }}" alt="Not Accepting" width="250 px" style="image: float-left;">
+<div class="book-header">
+<img src="{{ 'assets/img/reviewpolicy-no.jpg' | relative_url }}" alt="Not Accepting" width="250 px">
 
-[img width=250 class="image-float-left" [notacceptingreview.png]]**Important note:** I am not accepting books for review at present, //unless// you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.
+**Important note:** I am not accepting books for review at present, _unless_ you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.
 
 <center>***</center>
 
 I love reading and normally review every book I read on this website as well as on Goodreads and LibraryThing.
 
-If you are an author or publisher and want a book reviewed, I may be able to help. I will consider reading your book and writing an ''honest review for free'' if it meets the guidelines below.
+If you are an author or publisher and want a book reviewed, I may be able to help. I will consider reading your book and writing an **honest review for free** if it meets the guidelines below.
 
 **I definitely will consider** reading most categories for children, especially fantasy or adventure stories for the 9+ age group. Fantasy books for young adults and adults will also be well received. The other genres that I will consider, if the blurb and cover design catch my attention, are historical, Christain, cozy mysteries, romance, suspense and feel-good animal stories. I often read apocalyptic novels but am picky with other types of horror stories.
 
@@ -23,7 +24,7 @@ If you are an author or publisher and want a book reviewed, I may be able to hel
 
 **My reading preference** is either paperback, epub, mobi or audiobook. I will not read PDF versions.
 
-**Reviews will be placed on three websites:** Goodreads (Amazon often pulls reviews from here), ~LibraryThing (I notice Google Play Books pull reviews from here) and my website (refer to For Readers tab for a list of reviews).
+**Reviews will be placed on three websites:** Goodreads (Amazon often pulls reviews from here), LibraryThing (I notice Google Play Books pull reviews from here) and my website (refer to For Readers tab for a list of reviews).
 
 **Currently NOT accepting review copies:** In the event that I have too many books in my review list, books by Australian authors will be given preference. Check the image on this page. It will indicate if I am accepting or not accepting review copies. Sometimes I have to take a break from accepting more books in order to catch up on the ones I already have, or if I have other commitments.
 
@@ -31,6 +32,7 @@ If you are an author or publisher and want a book reviewed, I may be able to hel
 
 Please understand that providing me with a review copy of your book will not guarantee a positive review. I only write honest reviews. I attempt to include what I like and dislike about the storyline, characters, plot and world. I always include the cover and the blurb. And every review has up to a five-star rating.
 
-If your book fits the guidelines and you agree to my terms, please use the [[contact page|Contact]] to provide details of the book – the blurb, details of genre, length, subject matter and a link to the book cover (I will use the cover in my review). I will respond to your enquiry within 48 hours where possible. I live in Australia, so please allow for time zone differences.
+If your book fits the guidelines and you agree to my terms, please use the [contact page](/contact/) to provide details of the book – the blurb, details of genre, length, subject matter and a link to the book cover (I will use the cover in my review). I will respond to your enquiry within 48 hours where possible. I live in Australia, so please allow for time zone differences.
 
-Finally, if you have any questions or if the genre of your book is not mentioned above, go ahead and [Contact Me](/contact/).
+Finally, if you have any questions or if the genre of your book is not mentioned above, go ahead and [contact me](/contact/).
+</div>
