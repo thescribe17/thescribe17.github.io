@@ -11,17 +11,17 @@ permalink: /book-review-policy/
 
  <div class="book-info">
 
-<b>Important note:</b> I am not accepting books for review at present, _unless_ you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.
+<p><b>Important note:</b> I am not accepting books for review at present, _unless_ you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.</p>
 
 <center>***</center>
 
-I love reading and normally review every book I read on this website as well as on Goodreads and LibraryThing.
+<p>I love reading and normally review every book I read on this website as well as on Goodreads and LibraryThing.</p>
 
-If you are an author or publisher and want a book reviewed, I may be able to help. If your book meets the guidelines below, I will consider reading your book and writing a free review. 
+<p>If you are an author or publisher and want a book reviewed, I may be able to help. If your book meets the guidelines below, I will consider reading your book and writing a free review.</p>
 
-Be warned! It will be an <b>honest review</b>.
+<p>Be warned! It will be an <b>honest review</b>.</p>
 
-<span style="display:block; height: 2px; background: linear-gradient(to right, transparent, #555, transparent); margin: 10px 0;"></span>
+<p><span style="display:block; height: 2px; background: linear-gradient(to right, transparent, #555, transparent); margin: 10px 0;"></span></p>
 </div>
 </div>
 
