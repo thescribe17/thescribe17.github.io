@@ -23,9 +23,10 @@ permalink: /book-review-policy/
 
 <p>Be warned! It will be an <b>honest review</b>.</p>
 
+</div>
+</div>
+
 <p><span style="display:block; height: 2px; background: linear-gradient(to right, transparent, #555, transparent); margin: 10px 0;"></span></p>
-</div>
-</div>
 
 **I definitely will consider** reading most categories for children, especially fantasy or adventure stories for the 9+ age group. Fantasy books for young adults and adults will also be well received. The other genres that I will consider, if the blurb and cover design catch my attention, are historical, Christain, cozy mysteries, romance, suspense and feel-good animal stories. I often read apocalyptic novels but am picky with other types of horror stories.
 
