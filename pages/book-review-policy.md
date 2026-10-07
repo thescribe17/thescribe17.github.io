@@ -17,7 +17,11 @@ permalink: /book-review-policy/
 
 I love reading and normally review every book I read on this website as well as on Goodreads and LibraryThing.
 
-If you are an author or publisher and want a book reviewed, I may be able to help. I will consider reading your book and writing an **honest review for free** if it meets the guidelines below.
+If you are an author or publisher and want a book reviewed, I may be able to help. If your book meets the guidelines below, I will consider reading your book and writing a free review. 
+
+Be warned! It will be an **honest review**.
+
+<center>***</center>
 </div>
 </div>
 
