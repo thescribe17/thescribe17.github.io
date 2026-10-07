@@ -11,6 +11,7 @@ permalink: /book-review-policy/
 **Important note:** I am not accepting books for review at present, _unless_ you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.
 
 <center>***</center>
+</div>
 
 I love reading and normally review every book I read on this website as well as on Goodreads and LibraryThing.
 
@@ -35,4 +36,3 @@ Please understand that providing me with a review copy of your book will not gua
 If your book fits the guidelines and you agree to my terms, please use the [contact page](/contact/) to provide details of the book – the blurb, details of genre, length, subject matter and a link to the book cover (I will use the cover in my review). I will respond to your enquiry within 48 hours where possible. I live in Australia, so please allow for time zone differences.
 
 Finally, if you have any questions or if the genre of your book is not mentioned above, go ahead and [contact me](/contact/).
-</div>
