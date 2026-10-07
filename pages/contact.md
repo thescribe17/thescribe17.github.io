@@ -7,7 +7,7 @@ subtitle: "If you need to contact me, feel free to use this form."
 
 I will attempt to reply to your email within 48 hours, if required. Please allow for time zone differences. I live on the east coast of Australia, which is GMT +10 (and +11 during daylight saving--October to April).
 
-If you want to request a book review please ensure you have read my Book Review Policy before emailing me.
+If you want to request a book review please ensure you have read my [Book Review Policy](/book-review-policy/) before emailing me.
 
 
 <div class="container">
