@@ -19,18 +19,17 @@ series:
 
 ### My review
 
-Sean Williams is an Australian writer and I was pleased to see Australian influences come through in the writing.
+<p>The Stone Mage &amp; the Sea (First Book of the Change) by Sean Williams has been sitting on my book shelf for a couple of years and I thought it was about time I read it. I’m glad I made that decision.</p>
 
-The setting is clear and feels real.
+<p>Sean Williams is an Australian writer and I was pleased to see the Australianisms come through in his writing. In fact, it made for a nice change. The setting is clear and feels so real that I would almost be willing to guarantee that the author did his research by sitting in the Australian desert.</p>
 
-What I especially liked was the mixture of everyday items in what seemed like a futuristic world touched by magic.
+<p>What I especially liked about this book was the mixture of modern everyday items in what seemed like a futuristic world touched by magic. Yet, on the other hand, the people in the story seemed backwards in their technology too. I liked the balance. It made me wonder how far we can go, technology wise, before we do something wrong and end up worse off than when we started.</p>
 
-The balance was interesting and made me wonder how far technology can advance before something goes wrong.
+<p>Anyway, the main character is a young boy and the story falls into the “coming of age” category. At a guess, I would say this is a young adult book yet any avid reader will enjoy the storyline. It’s fresh and clean, and in a lot of ways different to other fantasy stories. It’s the first is a trilogy and I felt it nicely setup the world, the characters and the conflicts for the two following books.</p>
 
-The main character is a young boy and the story falls into the coming-of-age category.
+<p>I can’t say it was fast paced, but I didn’t find it boring or slow either. However, as the book neared the end, the tension raised and I had no choice but to follow the characters into a climax filled with everything that makes a good book.</p>
 
-I wouldn't describe it as fast-paced, but I didn't find it boring either.
+<p>This book is highly recommended.</p>
 
-As the book neared its end, the tension rose and I had no choice but to follow the characters into a strong climax.
+<p>I am already well into the second book in the series – The Sky Warden and the Sun.</p>
 
-This book is highly recommended.

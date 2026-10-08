@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hollowmen (Book 1)"
+title: "Hollowmen (Book 2)"
 subtitle: "eBook Review"
 date: 2012-03-27 10:00:00 +1000
 categories: [book-review]

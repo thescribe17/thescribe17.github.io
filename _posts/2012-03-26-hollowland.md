@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hollowland (Book 2)"
+title: "Hollowland (Book 1)"
 subtitle: "eBook Review"
 date: 2012-03-26 10:00:00 +1000
 categories: [book-review]
