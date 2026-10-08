@@ -8,26 +8,16 @@ tags: [reading, books]
 rating: "5 of 5 stars"
 format: Book
 author: "Robin Hobb"
-series: "The Rain Wild Chronicles"
+series: "(The Rain Wild Chronicles)"
 ---
-
-<br><br>
 
 ### {{ page.title }} {{ page.series }} by {{ page.author }}
 
-<br><br>
-
 **Format:** {{ page.format }}
-
-<br><br>
 
 **My rating:** {{ page.rating }}
 
-<br><br>
-
 ### My review:
-
-<br><br>
 
 The first book, which I reviewed last year, is called The Dragon Keeper.
 
