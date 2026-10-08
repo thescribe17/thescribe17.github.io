@@ -8,7 +8,7 @@ tags: [reading, books]
 rating: "3 of 5 stars"
 format: Book
 author: "Kate Forsyth"
-series: "(The Chain of Charms, #6")
+series: "(The Chain of Charms, #6)"
 ---
 
 ### {{ page.title }} {{ page.series }} by {{ page.author }}

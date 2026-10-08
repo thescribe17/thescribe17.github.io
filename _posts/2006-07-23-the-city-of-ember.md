@@ -8,7 +8,7 @@ tags: [reading, books]
 rating: "3 of 5 stars"
 format: Book
 author: "Jeanne DuPrau"
-series: "(The Chain of Charms, #1)"
+series: "(Ember, #1)"
 ---
 
 ### {{ page.title }} {{ page.series }} by {{ page.author }}
