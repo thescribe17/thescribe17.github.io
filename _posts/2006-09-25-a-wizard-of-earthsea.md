@@ -19,20 +19,13 @@ series: "Earthsea"
 
 ### My review
 
-I'm embarrassed to admit this because I've seen so many glowing reviews, but I abandoned *A Wizard of Earthsea*.
+<p>I'm embarrassed to say this, because I've read many good reviews on this book, but last night I abandoned <em>A Wizard of Earthsea</em> by Ursula Le Guin. I think my expectations were high, but in all honesty, I've never read anything by this author before and I found her writing style to be "stuffy".</p>
 
-I think my expectations were too high.
+<p>The way she phrases her sentences, and her choice of words, were distracting. The book had potential, but I couldn't be bothered waiting for the excitement to happen. I didn't care about the main character and when I realised I didn't care for the plot either, I tossed the book aside.</p>
 
-I found the writing style distracting. The phrasing and word choices felt overly formal to me and kept pulling me out of the story.
+<p>Life's too short to waste time reading books that don't catch hold of you from the first page, or by the end of the first chapter at the very least. I suffered 60 pages and that was enough. I'm through with forcing myself to read books I'm not enjoying.</p>
 
-The book clearly had potential, but I wasn't willing to wait for the excitement to begin.
+<p>Right, what will I try next? I have a Pamela Freeman mystery that looks interesting. I can't remember the name right now ("The Twist in the Light" or something similar). I'll correct this oversight later when I replace the image in the sidebar.</p>
 
-I didn't care enough about the main character, and eventually I realised I wasn't invested in the plot either.
+<p>Edit: The title of the book by Pamela Freeman is "A Trick of the Light". I couldn't find an image for the sidebar, and I'm too lazy to rig up the scanner. I've started reading the book and it pulled me in from the start. This is the first non-fantasy book I've read in a very long time. Perhaps I needed a change.</p>
 
-After sixty pages, I put it aside.
-
-Life is too short to spend time reading books that fail to grab me.
-
-Sometimes a book simply isn't the right fit for a particular reader.
-
-This one wasn't the right fit for me.

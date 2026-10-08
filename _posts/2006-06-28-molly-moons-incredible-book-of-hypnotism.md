@@ -19,18 +19,12 @@ series: "Molly Moon"
 
 ### My review
 
-It took me a long time to finish this book, though that wasn't the fault of the story.
+<p>It took me long enough to read this book, but that's not a reflection on the story, the writing or the author. As you know, I've had personal issues to deal with, which stopped me from reading for quite some time.</p>
 
-*Molly Moon's Incredible Book of Hypnotism* is a children's novel that happily breaks many of the so-called rules of children's fiction.
+<p>Molly Moon's Incredible Book of Hypnotism by Georgia Byng is a children's book that breaks all the rules. When an agent or a publisher tells a writer that they cannot write about people smoking, or about children doing naughty things (like stealing and running away)...don't listen to them, because this book has all these things and more.</p>
 
-The story follows an orphan girl who finds an old book about hypnotism in a library and discovers she can use its lessons to get almost anything she wants.
+<p>The author tells an interesting story about an orphan girl who finds an old book on Hypnotism in the local library. The girl's name is Molly Moon and she discovers that if she puts the lessons from the book into action, she can literally get anything she wants. She uses this art to better herself, in quite a selfish way, and at the expense of others. However, all the "bad" things she does lead to a lesson to be learned and I felt the author tackled these issues quite well.</p>
 
-At first she uses her new skills for selfish reasons and often at the expense of others.
+<p>The story is humorous, unusual and well written. It's an adventure with loads of twists and turns, which are neatly brought together for a satisfactory ending. There are two other books in the series - Molly Moon Stops the World and Molly Moon's Hypnotic Time Travel Adventure .</p>
 
-However, these choices lead naturally to important lessons.
-
-The story is humorous, unusual and well written.
-
-There are plenty of twists and turns and everything comes together in a satisfying conclusion.
-
-It's an entertaining adventure and one that younger readers will enjoy.
+<p>What am I reading next? The City of Ember by Jeanne DuPrau. Recommended to me, some months ago, by <a href="http://www.sherrydramsey.com/">Sherry Ramsey</a>.</p>
