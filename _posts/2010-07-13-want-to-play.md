@@ -19,22 +19,17 @@ series:
 
 ### My review
 
-*Want to Play?* (also published as *Monkeewrench*) is a mystery thriller written by a mother-and-daughter team using the pseudonym P. J. Tracy.
+<p>Want to Play? (also published as "Monkeewrench") is a mystery thriller written by mother/daughter team who use the pseudonym P J Tracy.</p>
 
-A group of friends who develop gaming software discover that someone is using their newest game as inspiration for murder.
+<p>A group of five friends who compile gaming software soon discover that someone is using their latest game – Serial Killer Detective – as a basis for murder. When they report the discovery to the police, they quickly find themselves on the top of the suspect list.</p>
 
-I picked this book up in a hurry before catching a train and didn't expect much from it.
+<p>I picked this book up as I flew out of the house to catch a train. I wanted something to read on the long trip and the book was on top of the pile. I didn’t have time to be choosy. To be honest, on the train when I looked at it more carefully, I didn’t expect much from it. So I was pleasantly surprised when I opened the book to the first page and the writing style snagged me straight away.</p>
 
-I was pleasantly surprised.
+<p>I liked the sense of humour and the colourful characters. I also liked the way the mystery unfolded – little by little, without making me get edgy because the next bit of information was too long in coming. I also enjoyed the thriller side of the story. Wondering what had happened in their past to make them the people I was reading about. Wondering what was around the next dark corner.</p>
 
-The writing style grabbed me immediately.
+<p>My only complaint about this book is that at one point I felt the crudeness was getting too much to handle. In some ways it felt sexist and I started to get annoyed, but then that side of things settled (or maybe I just stopped noticing) and I began to enjoy the story again.</p>
 
-I liked the sense of humour, the colourful characters and the way the mystery unfolded little by little.
+<p>I especially liked how the story didn’t get too technical or wasn’t too focused on the forensics side of things. In my opinion, there was a good balance of information given without it getting bogged down in facts and figures, which becomes boring.</p>
 
-My only complaint was that the crudeness occasionally became too much for me.
+<p>Want to Play? is an interesting read and I recommend it to anyone who wants to be entertained, wants the pages to almost turn themselves, and experience a well thought out story with characters who put defined images of themselves into your imagination.</p>
 
-However, I appreciated that the book never became bogged down in technical or forensic details.
-
-It struck a good balance and remained entertaining throughout.
-
-Recommended.

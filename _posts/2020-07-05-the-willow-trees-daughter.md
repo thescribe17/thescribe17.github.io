@@ -25,16 +25,13 @@ This is the story of her life at the palace, her adventures with wizards, hobgob
 
 ### My review
 
-A delightful story told in a fairy-tale way, but with a twist.
+A delightful story told in a fairy tale way, but with a twist. Each chapter felt like a stand alone story, but all the chapters together told the full story. The book is funny, moving and easy to read. There was a bit of everything, and something was always happening. It drew me in, and held me captive.
 
-Each chapter felt like a standalone story, but all the chapters together told the full story.
+<p>The characters are charming. I especially liked the main character's strength. It's good to find a princess who doesn't need saving, and has a genuine connection with the people around her.</p>
 
-The book is funny, moving and easy to read. There was a bit of everything and something was always happening. It drew me in and held me captive.
+<p>And there was even a bit of romance.</p>
 
-The characters are charming. I especially liked the main character's strength. It's good to find a princess who doesn't need saving and has a genuine connection with the people around her.
+<p>I'm glad I took a risk with this book. I'll be reading more in the series. No doubt about that.</p>
 
-And there was even a bit of romance.
+<p>Recommended.</p>
 
-I'm glad I took a risk with this book. I'll be reading more in the series. No doubt about that.
-
-Recommended.

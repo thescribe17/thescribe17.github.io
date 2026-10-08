@@ -29,20 +29,13 @@ How will Tensor use it in the final confrontation?
 
 ### My review
 
-Book two in the series.
+Book 2 in the series. 
 
-Again, I could not read the book, but as an audiobook it was quite good.
+Again, I could not "read" the book, but as an audiobook, it was quite good. In fact, this volume of the series saw some action and movement in the storyline. We live in an instant world these days, and the plot for some fantasy books can be painful.
 
-In fact, this volume saw some action and movement in the storyline.
+<p>Llian and Karan's relationship is one of those stop and go situations. Sometimes it is one of them doing the stoping. And other times it is what is happening around them. I can't accept their relationship as being real though. Or perhaps "deep" is the word, I should have used. It feels superficial. That may be intended or not. I don't know, but I suspect not at this stage of the story.</p>
 
-We live in an instant world these days and the pace of some fantasy books can be painful.
+<p>Thankfully, the world's history is no longer a problem. It is assumed we know that after book one and I'm pleased to say that we do not have to read it again.</p>
 
-Llian and Karan's relationship is one of those stop-and-go situations. Sometimes one of them is doing the stopping. Other times it is the events around them.
+<p>Reading over what I've written makes me think I've given the wrong star rating as it sounds like I don't like the story or characters at all. Yet, despite all I've said, I have gone on and listened to book 3 and I'm halfway through book 4 so something must have kept my attention.</p>
 
-I can't accept their relationship as being completely real though. Or perhaps "deep" is the word I should have used.
-
-Thankfully, the world's history is no longer a problem. It is assumed we know that after book one, and I'm pleased to say that we do not have to read it again.
-
-Reading over what I've written makes me think I've given the wrong star rating as it sounds like I don't like the story or characters at all.
-
-Yet despite all I've said, I have gone on and listened to book three and I'm halfway through book four, so something definitely kept my attention.

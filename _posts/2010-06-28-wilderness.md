@@ -19,20 +19,10 @@ series:
 
 ### My review
 
-*Wilderness* is a book for younger readers.
+<p>Wilderness is a book for younger readers. I usually enjoy such books, but something about this one just didn't do it for me. I didn't connect with the characters. I couldn't relate to them.</p>
 
-I usually enjoy books for this age group, but something about this one simply didn't work for me.
+<p>It's a story of two boys who are taken on a wilderness holiday by their mother. She is keen to be away from home while her husband's first wife visits their daughter, who lives with her dad. I enjoyed the mother/daughter relationship -- the fear, anger and getting to know each other scenes. However, I didn't enjoy the wilderness side of the book. It bordered on boring. It didn't feel realistic. And the climax wasn't very suspenseful.</p>
 
-I didn't connect with the characters and couldn't relate to them.
+<p>It's a story that explores relationships within dysfunctional families, which is a situation I know well, but that's where my connection with this book ended.</p>
 
-It's the story of two boys taken on a wilderness holiday by their mother.
-
-I enjoyed the mother-daughter relationship and the emotional aspects of the story.
-
-However, I didn't enjoy the wilderness side of the book. It bordered on boring and didn't feel realistic.
-
-The climax also lacked suspense.
-
-Having said that, it wasn't a terrible book.
-
-It just wasn't meaningful enough for my liking.
+<p>Having said this, it wasn't a terrible book, just not meaningful enough for my liking.</p>

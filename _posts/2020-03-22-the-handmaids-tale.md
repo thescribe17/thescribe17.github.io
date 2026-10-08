@@ -19,28 +19,16 @@ series:
 
 ### My review
 
-This book was written in the 1980s. Strangely, I had never heard of it until last year when some women at work were talking about the television series.
+<p>This book was written in the 1980s. Strangely, I had never heard of it until last year when some women at work were talking about the TV series. Their chatter caught my attention. I looked it up and discovered a book existed. I have not watched the series, but now I have read the book.</p>
 
-Their chatter caught my attention. I looked it up and discovered a book existed.
+<p>The book is brilliant.</p>
 
-I have not watched the series, but now I have read the book.
+<p>The storyline is set in a possible near future when the world goes crazy, and instead of moving forward, we go sidewards and backwards.</p>
 
-The book is brilliant.
+<p>The main character tells us about her life, then and now. The difference. The confusion. The wanting. The uncertainty. And the fear. I believe each reader will take from this book something different. For me, it told of a woman who beyond all else wanted to survive--and would do anything to achieve her goal. Yet she planned for failure too. She thought of ways to "escape".</p>
 
-The storyline is set in a possible near future when the world goes crazy and, instead of moving forward, we go sideways and backwards.
+<p>In her new world, who could be trusted? What was the truth? It would be scary to live her life.</p>
 
-The main character tells us about her life then and now. The difference. The confusion. The wanting. The uncertainty. And the fear.
+<p>Honestly, this book is worth reading. It makes you think long and hard about the world around us, about ourselves, and whether or not the author had a crystal ball. Unfortunately, I can see the handmaid's life becoming real in some ways if we are not careful.</p>
 
-I believe each reader will take something different from this book.
-
-For me, it told of a woman who beyond all else wanted to survive and would do anything to achieve her goal. Yet she planned for failure too. She thought of ways to escape.
-
-In her new world, who could be trusted? What was the truth?
-
-It would be terrifying to live her life.
-
-Honestly, this book is worth reading. It makes you think long and hard about the world around us, about ourselves, and whether or not the author had a crystal ball.
-
-Unfortunately, I can see aspects of the handmaid's life becoming real in some ways if we are not careful.
-
-Recommended.
+<p>Recommended.</p>

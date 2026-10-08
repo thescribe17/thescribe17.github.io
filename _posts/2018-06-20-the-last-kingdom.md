@@ -29,26 +29,8 @@ Above all, though, he wishes to recover his father's land, the magical fort of B
 
 ### My review
 
-This is the first book I've read or listened to by Bernard Cornwell.
+This is the first book I've read/listened to by Bernard Cornwell. The reason? I'm not a great lover of "the great battle scene" and I've always felt the author would go there. Now I know for certain that he does. But...listening to battle scenes is much different to reading them. And listening to battle scenes in this story was a new experience for me. A good experience. 
 
-The reason? I'm not a great lover of the grand battle scene and I've always felt the author would go there.
+I enjoyed the story and the characters. I know it was based on history, how much so I don't know, but it was well written. I must admit that I found it difficult to keep track of the characters because of their strange (similar sounding) names. However, I worked out the ones that matter and became totally engrossed in the plot.
 
-Now I know for certain that he does.
-
-But listening to battle scenes is much different to reading them. Listening to battle scenes in this story was a new experience for me. A good experience.
-
-I enjoyed the story and the characters.
-
-I know it was based on history, though how much I don't know, but it was well written.
-
-I must admit that I found it difficult to keep track of the characters because of their strange and similar-sounding names. However, I worked out the ones that matter and became totally engrossed in the plot.
-
-The other thing that surprised me was the realisation that I don't read many books written by men. It has never been intentional, but during this book I discovered I liked the different writing style I found here.
-
-It's hard to explain, but for me it was a nice change of pace.
-
-It was gritty. No holding back. Masculine. Don't mess with me.
-
-Simply gripping.
-
-I will be listening to the next two books for sure.
+The other thing that surprised me was the realisation that I don't read many books written by men. It has never been intentional, but during this book I discovered I liked the different style of writing I found here. It's hard to explain, but for me, it was a nice change of pace. It was gritty, no holding back, masculine. Don't mess with me. Simply gripping. I will be listening too the next two books for sure.

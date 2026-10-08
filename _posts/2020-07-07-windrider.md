@@ -27,18 +27,10 @@ With the help of her friends, Basil and Clover, she tries to achieve her aim wit
 
 ### My review
 
-Book 2 in the Floramonde series for young readers, or the young at heart like me.
+Book 2 in the Floramonde series for young readers (or the young at heart, like me).</p>
 
-The first book had a magical feel to it that didn't quite cross over to this book.
+<p>The first book had a magical feel to it, that didn't cross over to this book. However, that doesn't mean the book wasn't any good, because it is. This time, instead of the chapters telling many stories to make a whole, the entire book told a single story. Betony sets off to save her father, while her two best friends set off to save Betony from making a bargain she may regret.</p>
 
-However, that doesn't mean the book wasn't any good, because it is.
+<p>In this book there is a dragon, magic, dealing with relationships (good and bad), and love. But the most important thing, in my opinion, is the theme that deals with the lengths we will go to to save those we cherish.</p>
 
-This time, instead of the chapters telling many stories to make a whole, the entire book told a single story.
-
-Betony sets off to save her father while her two best friends set off to save Betony from making a bargain she may regret.
-
-In this book there is a dragon, magic, relationships, and love.
-
-But the most important thing, in my opinion, is the theme that deals with the lengths we will go to save those we cherish.
-
-Recommended.
+<p>Recommended.</p>
