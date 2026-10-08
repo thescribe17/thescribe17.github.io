@@ -19,22 +19,10 @@ series: "Left Behind"
 
 ### My review
 
-I was told after purchasing this book that it was Christian fiction and immediately worried it would become preachy.
+<p>This month I’ve been reading Left Behind: A Novel of the Earth's Last Days (Left Behind #1) by Tim F. LaHaye and Jerry B. Jenkins. I was told, after I purchased the book, that it is a Christian book and immediately thought it would be preachy. So I opened the book and started reading cautiously; ready to throw the book to one side if it started preaching at me. I’m glad to say that it didn’t preach. Yes, there were religious sections in the story, but that was to be expected and the author was careful to slip them in were it was appropriate. And I never felt that the explanations went over the top. They were written clearly and concisely, so they didn’t distract from the story plot in the least.</p>
 
-Thankfully, it didn't.
+<p>Basically, the story follows two men left behind after the “rapture”. Rayford’s storyline is religious and, to be honest, I enjoyed this part of the book (which surprised me). Buck’s storyline is political and, not surprisingly (for me), this was the let down of the story. Whilst Buck’s storyline could have been quite interesting, I found it bogged down with the politics and therefore … quite boring. More than once I felt like skipping Buck’s scenes and reading the next section for Rayford. However, knowing religion and politics would surely be combined in the end, I read every scene (reluctantly). And, of course, I was right. Suddenly, the two merged and the pace steadily climbed and there was an exciting race to the all important climax. Once there, the authors quickly brought the book to a close.</p>
 
-The religious elements were woven into the story where appropriate and never overwhelmed the narrative.
+<p>I knew Left Behind was the first book in a series but, although there was some closure, I didn't feel completely satisfied with the end. I feel that all books should leave the reader feeling content, even if the big picture has only just begun. This book failed in that regard.</p>
 
-The novel follows two men left behind after the Rapture.
-
-Of the two major storylines, I enjoyed Rayford's more personal and spiritual journey far more than Buck's political storyline.
-
-The political sections often felt bogged down in detail and, at times, became quite tedious.
-
-Eventually the two storylines merged and the pace increased considerably, leading to a stronger conclusion.
-
-Although I understood this was the first book in a series, I still felt the ending lacked enough closure.
-
-Do I recommend it?
-
-If you are specifically interested in end-times fiction or want an introduction to the biblical concepts involved, it serves that purpose. Otherwise, I think there are stronger novels available in the genre.
+<p>Do I recommend the book? I feel that if you're looking for an "end times" story to read, you could probably find better. However, if you want to know what the bible predicts, then this is a good starting point or introduction. I'm not sorry I read the book and I did find it interesting. Yesterday, I was given book two - Tribulation Force - which Gary found in an op shop and I will read that, but I wouldn’t walk into a bookshop and buy another book in the series. It is not just a story. It is a series which is being used as a medium to introduce people to Christianity. For that reason, I cannot recommend the book or the series. I would feel strange doing so.</p>
