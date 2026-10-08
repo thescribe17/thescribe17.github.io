@@ -4,36 +4,25 @@ title: "School of Wizardry"
 subtitle: "Book Review"
 date: 2005-08-30 10:00:00 +1000
 categories: [book-review]
-tags: [reading, fantasy]
+tags: [reading, books]
+rating:
 format: Book
 author: "Debra Doyle and James D. Macdonald"
-series: "Circle of Magic"
+series: "(Circle of Magic, Book 1)"
 ---
 
-### School of Wizardry by Debra Doyle and James D. Macdonald
+### {{ page.title }} {{ page.series }} by {{ page.author }}
 
-**Format:** Book
+**Format:** {{ page.format }}
 
-### Blurb
+### Blurb:
 
-Determined to become a wizard, twelve-year-old Randal is delighted to be accepted into the School of Wizardry.
+Determined to become a wizard, twelve-year-old Randal is delighted to be accepted into the famed School of Wizardry, but his apprenticeship is marred when he realizes that one of the master wizards is using evil spells to destroy the school and gain supreme power.
 
-His apprenticeship becomes far more complicated when an evil wizard threatens everything he hopes to achieve.
+### My review:
 
-### My review
+Last night I finished reading School of Wizardry. The storyline slightly resembled the Harry Potter series...hang on, I just checked the publication date and School of Wizardry was published in 1990, which was prior to Harry Potter, so let me change my line of thought to Harry Potter slightly resembles School of Wizardry.
 
-The storyline bears some similarities to stories that would later become very popular.
+How do the resemble each other? The boy has no training but suddenly finds himself a wizard's apprentice. There's the "can't do the spells" thing, the feisty girl and the nasty master wizard, but other than that School of Wizardry had a different feel to it - more medieval. I liked the way we got inside the boy's head and although this was book 1 of 6, I liked the way it ended too. It was obvious what the next book will be about, but with the addition of a couple of paragraphs, I felt satisfied with the ending and don't *have* to read the next book. I hate being forced to do so, so this gave the book an extra point.
 
-A young apprentice wizard, magical schooling, difficult lessons and dangerous enemies all make appearances.
-
-However, the book has its own distinct identity and a more medieval feel.
-
-I enjoyed getting inside the protagonist's head and following his progress.
-
-Although this is the first volume in a six-book series, I appreciated that the story reached a satisfying conclusion.
-
-I could easily have stopped reading there if I wanted to.
-
-That alone earned the book extra points from me.
-
-An entertaining fantasy adventure.
+The book was entertaining. I enjoyed it.
