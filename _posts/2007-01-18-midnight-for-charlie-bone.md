@@ -19,7 +19,7 @@ series: "The Children of the Red King"
 
 ### My review
 
-<p>First off, I have to admit that I bought these books because I thought (maybe I saw this on the internet somewhere, I’m not sure) that the story was similar to the Harry Potter <img width="1" height="1" border="0" style="border: none!important; margin: 0!important;" src="http://www.assoc-amazon.com/e/ir?t=scrspor-20&amp;l=as2&amp;o=1&amp;a=B000E6UZZK" alt=""> books.</p>
+<p>First off, I have to admit that I bought these books because I thought (maybe I saw this on the internet somewhere, I’m not sure) that the story was similar to the Harry Potter books.</p>
 
 <p>Yes, there is an 11 year old boy who has a magical “ability”. Yes, there is a special school for children with these abilities. Apart from that, the story is quite different. I had to push the Harry Potter thought out of my head and start thinking Charlie Bone, because wherever I got that idea…I was wrong…and it was wrong of me to continue reading with that thought in my head.</p>
 
