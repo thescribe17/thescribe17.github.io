@@ -30,13 +30,13 @@ series:
 <p>I suspect only those affected by suicide would consider picking up the book. This is a shame, because if we can educate the parents and their children before tragedy strikes, more lives might be saved.</p>
 
 <blockquote>
- ...For us surviving parents, this grief is ever after. The isolation, guilt, despair and frustration that most of us feel is the legacy our children have left us. Now, too late, we understand what they must have been going through in the days and hours leading up to their death.
+ <p>...For us surviving parents, this grief is ever after. The isolation, guilt, despair and frustration that most of us feel is the legacy our children have left us. Now, too late, we understand what they must have been going through in the days and hours leading up to their death.</p>
 
-It would be naïve to believe that we can make suicide go away, but with care, intelligence, knowledge, sensitivity and genuine concern for our fellow man, perhaps we could hope to reduce these frightening figures.
+<p>It would be naïve to believe that we can make suicide go away, but with care, intelligence, knowledge, sensitivity and genuine concern for our fellow man, perhaps we could hope to reduce these frightening figures.</p>
 
-We have to start somewhere. No one should have to farewell their child at a morgue.
+<p>We have to start somewhere. No one should have to farewell their child at a morgue.</p>
 
--- the words of Ruth Anderson as published in the book Leaving Early by Bronwyn Donaghy
+<p>-- the words of Ruth Anderson as published in the book Leaving Early by Bronwyn Donaghy</p>
 </blockquote>
 
 <p>I've said this before and I'll say it again – if only I had been suicide aware, Barry might still be with us today.</p>

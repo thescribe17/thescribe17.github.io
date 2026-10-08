@@ -26,7 +26,7 @@ series:
 <blockquote>
 <p>"If you had the chance, just one chance, to go back and fix what you did wrong in life, would you take it? And if you did, would you be big enough to stand it? Mitch Albom, in this new book once again demonstrates why he is one of my favourite writers: a fearless explorer of the wishful and magical, he is also a devout believer in the power of love. For One More Day will make you smile. It will make you wistful. It will make you blink back tears of nostalgia. But most of all, it will make you believe in the eternal power of a mother's love."</p>
 
-<p>-- James McBride, author of The Color of Water: A Black Man's Tribute to His White Mother</a></p>
+<p>-- James McBride, author of The Color of Water: A Black Man's Tribute to His White Mother</p>
 </blockquote>
 
 
