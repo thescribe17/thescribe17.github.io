@@ -17,18 +17,12 @@ series:
 
 ### My review
 
-After a mammoth adult book, I quickly turned back to the smaller, easier-to-read children's and young adult books waiting on my bookshelf.
+<p>After a mammoth adult book, I quickly turned back to the smaller, easier to read children and young adult books I have lined up in my bookshelf waiting to be read.</p>
 
-The first one was *The Secret* by Sophie Masson.
+<p>The first one was The Secret by Sophie Masson. First published in 1996, it felt a little aged with the main character being named Florence, but other than that I had no complaints.</p>
 
-First published in 1996, it felt a little dated in places, but otherwise I had no complaints.
+<p>The story is about acceptance and new beginnings. This was shown in a number of ways and, I felt, the topic was handled nicely in each thread. I didn’t have a sense of where the story was “acted out”, but that didn’t bother me either. My imagination was happy to fill in the gaps.</p>
 
-The story is about acceptance and new beginnings.
+<p>It took me two hours to read, so it will take most people less than that. Young readers will enjoy this story, as will some adults. I enjoyed learning about Polichinelle – the original puppet that is well known as Punch in the Punch and Judy act.</p>
 
-This theme was shown in a number of ways and I felt the topic was handled nicely in each thread of the story.
-
-It took me around two hours to read, so most people will probably read it even faster.
-
-Young readers will enjoy this story, as will some adults.
-
-Recommendation: It's a bit outdated, but still worthy of a read.
+<p>Recommendation: It’s a bit outdated, but still worthy of a read.</p>

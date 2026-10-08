@@ -30,4 +30,3 @@ Although I don’t know for sure if the facts stated in the book about the art w
 Unfortunately, I didn’t learn anything from these facts except that Van Gogh painted a self-portrait with a bandaged ear. It was actually the left ear which was bandaged, not the right ear as shown in the portrait, because Van Gogh used a mirror when doing the painting. I also learned that Van Gogh died by suicide.
 
 **Recommendation:** If you have an opportunity to read the book, do it. I don’t think you’ll be sorry.
-``

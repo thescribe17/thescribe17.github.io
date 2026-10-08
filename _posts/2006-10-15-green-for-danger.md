@@ -16,18 +16,12 @@ series: "Raven Hill Mysteries"
 
 ### My review
 
-*Green for Danger* is book six in the Raven Hill Mysteries series. I haven't read any of the previous books.
+<p>Green for Danger is the latest book I've finished reading. It is book 6 in the Raven Hill Mysteries series. I haven't read any of the previous books. Admittedly, whilst reading I thought there was a lot of “padding”, but by the end I realised that every scene did advance the storyline (in other words everything was there for a reason).</p>
 
-Admittedly, while reading I thought there was a lot of padding, but by the end I realised that every scene advanced the storyline. Everything was there for a reason.
+The book isn’t a fantasy, it’s a mystery.
 
-The book isn't a fantasy. It's a mystery.
+I’ve decided to try and read a bit of a variety of genres now. I think you can have too much fantasy. I needed a change and trying to solve a mystery before the characters in the book figure things out is a good distraction for me.
 
-I've decided to try reading a greater variety of genres because I think it's possible to have too much fantasy. Trying to solve the mystery before the characters do is a pleasant distraction.
+<p>With this book, I guessed one of the “baddies” but couldn't work out where the jewels were hidden. The ending was tied together nicely and the characters were nicely fleshed out.</p>
 
-With this book, I guessed one of the villains, but I couldn't work out where the jewels were hidden.
-
-The ending was tied together nicely and the characters were well developed.
-
-I do have another mystery by Emily Rodda, but I don't think I'll read that just yet.
-
-Recommended.
+<p>I do have another mystery by Emily Rodda, but I don't think I'll read that yet. I'm not sure what I'll read next, I'll have to get back to you on that one.</p>
