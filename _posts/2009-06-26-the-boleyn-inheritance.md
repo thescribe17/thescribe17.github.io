@@ -21,20 +21,13 @@ series:
 
 *The Boleyn Inheritance* is the sequel to *The Other Boleyn Girl*.
 
-The sequel is written differently from the first book. At first, I didn't like the change all that much, but I soon fell into the voice of the writer and the personalities of the characters.
+<p>The sequel is written differently from the first book. At first, I didn’t like the change all that much, but I soon fell into the “voice” of the writer and the personalities of the characters and found myself totally absorbed. In a lot of ways, I found The Boleyn Inheritance to be better than The Other Boleyn Girl. I enjoyed both books, the storylines are realistic (which they should be as they are based on history) and sometimes quite gruesome, but The Boleyn Inheritance had something different that made it stand out, for me.</p>
 
-Three women. Three personalities. Three situations that entwine.
+<p>The difference, in my opinion, was the clear personalities that came out in the writing. Three women, three personalities, three situations that entwine. I felt like I was reading the personal diary of each woman, which made the experience more enjoyable (and shocking). And, because I was looking down on these women from above, but also seeing what was happening from within their minds, I was captivated.</p>
 
-I felt like I was reading the personal diary of each woman, which made the experience more enjoyable and more shocking.
+<p>One of the women was in both books. In the first book, we saw her as a conniving, sneaky bitch. There was no way you would trust her with anything, especially your life. Yet in the second book, this same woman came across as sweet and innocent, but feeling mistreated (and this was why I didn’t like the book to begin with; I found it confusing). But then I realised that when we (all humans) do something wrong, we always try to justify our actions and find reasons why what we did wasn’t as wrong as everyone believes. We don’t see ourselves as conniving, sneaky bitches (or bastards). We see ourselves as an innocent by-stander, as a person who has been wronged and mistreated, as a person who is misunderstood. When I realised this, I was able to accept the difference in the personalty and this allowed me to appreciate the story a whole lot more.</p>
 
-One of the women appears in both books. In the first she comes across as conniving and untrustworthy. In the second she presents herself as sweet and innocent.
+<p>There was repetitiveness in each of the storylines, but I believe this was done on purpose to drive home the personalities and the reasons for the women’s actions. Although this did annoy me at times, I tried not to let it spoil the book. We all have our little habits that we are unaware of (most of the time), but other people find annoying. I like to believe that the repetitiveness was showing this to a small degree.</p>
 
-At first I found this confusing. Then I realised that when people do something wrong, they often justify their actions and view themselves differently from how others see them.
+<p>Again, the book is fiction but I know the timeline is as accurate as it can be when compared to the real events (I did some research of my own to check). The author has used creative license to build a story around known events. I think she did a good job and have enjoyed reading both books. If you like historical fiction, then I recommend them.</p>
 
-That insight allowed me to accept the difference in personality and appreciate the story more.
-
-Again, the book is fiction, but the timeline is as accurate as it can be when compared to known historical events.
-
-The author has used creative licence to build a story around known events and I think she did a good job.
-
-If you enjoy historical fiction, I recommend it.

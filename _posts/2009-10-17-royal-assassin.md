@@ -8,10 +8,10 @@ tags: [reading, fantasy]
 rating: "4 of 5 stars"
 format: Book
 author: "Robin Hobb"
-series: "The Farseer Trilogy"
+series: "(The Farseer Trilogy, #2)"
 ---
 
-### Royal Assassin by Robin Hobb
+### Royal Assassin (The Farseer Trilogy, #2) by Robin Hobb
 
 **Format:** Book
 
@@ -19,26 +19,11 @@ series: "The Farseer Trilogy"
 
 ### My review
 
-*Royal Assassin* is the middle volume of the Farseer Trilogy.
+<p>Each time I thought to myself “enough, move on” it was almost as if the author had planned it exactly to happen in that way, because there was always a sudden change that would draw me deeper into the plot, grasp me firmer. And the plot for this trilogy is complex. There are twists and turns in the story that a reader could not believe possible. The ending of this book left me feeling somewhat disturbed, yet I had seen it coming but I still wasn’t prepared for it. I put the book down and couldn’t stop thinking about what had happened. Part of me wanted to reject it, yet another part of me embraced it wholeheartedly. It was the strangest feeling and testament that the story as a whole had an affect on me.</p>
 
-At times I felt the story dragged slightly, which is why I settled on four stars rather than five.
+<p>A good book pulls you in and holds you firmly within the storyline. For me, this story (I’m talking about book one and two) wasn’t just words on paper; it was people and places coming alive around me. Just as the characters in the book had to make alliances and fight for survival; I felt as if I was another character struggling for survival along side them. To become so absorbed by the plot and so totally bonded with the characters tells me that the author did her job well.</p>
 
-However, that doesn't mean the storyline or characters are lacking.
+<p>This book, no, this trilogy, is highly recommended.</p>
 
-Quite the opposite.
+<p>Now, after reading and enjoying the first two books, I’m expecting a lot from the third. I hope I won’t be disappointed.</p>
 
-The plot is intricate and the characters are deeply woven together.
-
-Whenever I started thinking the story needed to move on, something unexpected would happen and pull me back in.
-
-The ending left me feeling disturbed, even though I suspected where events were heading.
-
-I simply wasn't prepared for it.
-
-A good book pulls you into its world and refuses to let go.
-
-For me, this story wasn't just words on paper. It was people and places coming alive around me.
-
-Robin Hobb has a remarkable ability to make the reader feel personally invested.
-
-This book, and indeed the trilogy, is highly recommended.

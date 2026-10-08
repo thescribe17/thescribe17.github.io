@@ -9,8 +9,6 @@ tags: [dvd-review]  # anything you want, e.g. [news], [reading], [general],
 
 Another DVD I received for Christmas was <strong>Harry Potter and the Half-Blood Prince</strong>.
 
-Before I go any further, I must tell you that I have read the entire series of books.  <a href="http://localhost/wptest/blog/2007/05/harry-potter-and-the-half-blood-prince-2/">You can read my book review here.</a>
-
 So where do I start?  I guess I should point out that when the movie started, I greatly regretted not having watched the previous one again, just to refresh my memory of where events were at.  
 
 I was surprised by how much the actors have grown up.  That was a bit distracting for a while.  

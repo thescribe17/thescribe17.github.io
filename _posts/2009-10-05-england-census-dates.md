@@ -13,15 +13,15 @@ So, I set about finding out what dates the census were carried out and you can f
 
 Anyway, here are the census dates.  The archive for the 1911 census will be made available on 1 January 2012, although I have heard that the records may already be available through some online, paying services.
 
-10th March 1801
-27th May 1811
-28th May 1821
-30th May 1831
-7th June 1841
-30th March 1851
-7th April 1861
-2nd April 1871
-3rd April 1881
-5th April 1891
-31st March 1901
+10th March 1801<br>
+27th May 1811<br>
+28th May 1821<br>
+30th May 1831<br>
+7th June 1841<br>
+30th March 1851<br>
+7th April 1861<br>
+2nd April 1871<br>
+3rd April 1881<br>
+5th April 1891<br>
+31st March 1901<br>
 2nd April 1911
