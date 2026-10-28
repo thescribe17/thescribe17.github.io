@@ -5,21 +5,25 @@ subtitle: This is where you can find out more about me.
 permalink: /books/about-me/
 ---
 
-The Scribe is my online name (which I don’t seem to use much any more) and Karen Lee Field is my pen name. I mainly write fantasy stories for 9 to 12-year-olds, young adults and adults. I’ve dabbled in other genres as well as non-fiction, but nothing worthy of publication has come out of that dabbling to date. Occasionally, I will write a short story, but this type of writing isn’t a priority for me. As weird as it might sound, I find short stories harder to write than novel-length manuscripts. You can follow my progress by going to the [Works in Progress](work-in-progress.md) page (I’ll try to keep in as up-to-date as possible).
+I'm Karen Lee Field, an Australian author who writes fiction for both children and adults. My stories range from fantasy and adventure to mystery, with a particular focus on sparking the imagination and taking readers beyond the everyday.
 
-In July 2008 I was involved in publishing an anthology – Speculative Realms: Where there’s a will, there’s a way. My story **Where Strength Lies** is included. [Find out more »](speculative-realms.md)
+Originally born in London, England, I moved with my family to Australia when I was seven and have called it home ever since. Today, I live on the beautiful south coast of New South Wales with my husband.
 
-On 1 September 2010, I set up Kayelle Press, a small publishing company. I intended to share my experiences on this blog regarding setting up a small press — the woes and the satisfaction achieved, but the publishing company was closed on 31 December 2015 due to having to become a primary carer for my mother, who has Alzheimer’s. Anyone who has had to become a primary carer will understand why I had to prioritise, I simply had no time or energy for publishing. 
+I've always loved stories, whether reading them, writing them, or discussing them with fellow book lovers. While novels are my primary focus, I've also had short fiction published and enjoy supporting the writing community through this website, where I share articles on writing, publishing, and books.
 
-There is more to life than writing I’m told, so there have to be other things that I’m interested in. Hmmm! The best I can do is to tell you that I love researching Medieval times and Ancient Egypt. When I’m away from the computer I enjoy reading. My all-time favourite book is Illusion by Paula Volsky, followed closely by Doomsday Book by Connie Willis. Although I do read a lot of fantasy, I also enjoy a good murder mystery; a touch of horror/thriller now and again; and even a sloppy romance when the mood takes me. I am addicted to being a family historian. My family tree is growing quite well and looks nice and healthy. I also enjoy knitting and going on long walks with family and friends.
+When I'm not writing, you'll usually find me reading, researching family history, exploring the past through subjects such as Medieval history and Ancient Egypt, knitting, or enjoying long walks with family and friends.
 
-Born in London, England, I moved with my parents to Sydney, Australia when I was seven. I lived on the south coast of NSW for many years before relocating to the beautiful Blue Mountains. I love the mountains and I love the sea. In 2017, I returned to the south coast of NSW. I live with my husband and we miss our much loved, sharp-toothed puppy who passed away aged 14 years in September 2023 (we called him a puppy right up to the end).
+If you'd like to see what I'm currently working on, visit my [Works in Progress](/books/work-in-progress/) page.
 
-…[Karen](writers-resume.md)
+I hope you enjoy exploring my corner of the internet and perhaps discovering a new story along the way.
+
+…[Karen](/books/writers-resume/)
 
 ### Official Biography
 
-Born within the sound of the Bow bells in London, Karen Lee Field was seven when her parents decided to move to the “Lucky Country” and settle in Sydney, Australia. Apart from enjoying time with her family and pets, Karen loves escaping to fantasy worlds — places where her sometimes ordinary life is transformed into an exciting adventure and her imagination is set free. She writes novels for children and adults in various genres and her short stories appear in several anthologies. She currently lives on the south coast of NSW.
+Born in London and raised in Australia, Karen Lee Field writes fiction for both children and adults, with a particular love of fantasy, mystery, and adventure. A lifelong storyteller and avid reader, she enjoys creating stories that transport readers beyond the everyday and into worlds filled with wonder, discovery, and possibility.
+
+When she's not writing, she enjoys reading and spending time with her family and pets. She lives on the south coast of New South Wales, Australia.
 
 ### External Website Profiles
 
@@ -31,5 +35,3 @@ Born within the sound of the Bow bells in London, Karen Lee Field was seven when
 [LibraryThing](https://www.librarything.com/author/fieldkarenlee)<br>
 [Wikia Children’s Books](https://childrensbooks.fandom.com/wiki/Karen_Lee_Field)<br>
 [Wikipedia](https://en.wikipedia.org/wiki/Karen_Lee_Field)
-
-<div style="text-align: center; font-size: 12px;">Last updated on 4 November 2024</div>

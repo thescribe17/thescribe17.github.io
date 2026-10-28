@@ -43,10 +43,4 @@ The headings on this page include:
 
 ## Book Review Policy
 
-<p>
-  I write reviews for all the books I read. However, due to life's challenges, I haven't been able to read over recent years. However, my circumstances have changed and I have started writing again and intend to start reading again too. 
-</p>
-
-<p>  
-  When I'm ready I will start offering book reviews for authors again. Here's my <a href="/book-review-policy/">Book Review Policy</a>.
-</p>
+<strong>Exciting News for Authors and Publishers!</strong> I'm currently accepting selected books for review. If you're looking for an honest review and your book fits my preferred genres, I'd be delighted to consider it. Please visit my <a href="/book-review-policy/">Book Review Policy</a> page for full details.

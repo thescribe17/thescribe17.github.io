@@ -1,51 +1,130 @@
 ---
 layout: page
 title: "Book Review Policy"
-subtitle: "Currently not accepting"
+subtitle: "🟢 REVIEW STATUS: OPEN"
 permalink: /book-review-policy/
 ---
 
-<div class="book-header">
+I love reading and generally review every book I read. Reviews are published on this website and may also be shared on Goodreads and LibraryThing to help readers discover new authors and stories.
 
-<img src="{{ '/assets/img/reviewpolicy-no.jpg' | relative_url }}" alt="Not Accepting">
+If you are an author or publisher looking for an honest review, I may be able to help. While I cannot accept every book offered, I welcome review requests that fit the genres and guidelines outlined below.
 
- <div class="book-info">
+> **Important:** All reviews are completely honest. Providing a review copy does not guarantee a positive review, and acceptance of a review copy does not guarantee that a review will ultimately be published.
 
-<p><b>Important note:</b> I am not accepting books for review at present, <i>unless</i> you can offer me an audio version of your book. If so, I will consider other genres listed below as not acceptable, except for non-fiction, poetry and erotica. If you have an audiobook, then please contact me with the details and I’ll let you know if I’m interested in “reading” it.</p>
+---
 
-<span style="display:block; text-align:center; margin: 10px 0;">
-  ✦ ✦ ✦
-</span>
+## Genres I Actively Seek
 
-<p>I love reading and normally review every book I read on this website as well as on Goodreads and LibraryThing.</p>
+### Children's and Young Adult Fiction
 
-<p>If you are an author or publisher and want a book reviewed, I may be able to help. If your book meets the guidelines below, I will consider reading your book and writing a free review.</p>
+I am particularly interested in books written for younger readers, especially:
 
-<p>Be warned! It will be an <span style="font-weight: bold; color: #2196F3; font-size: 20px;">honest review</span>.</p>
+- Adventure
+- Fantasy
+- Mystery
 
-</div>
-</div>
+### Adult Fiction
 
-<p><span style="display:block; height: 2px; background: linear-gradient(to right, transparent, #555, transparent); margin: 10px 0;"></span></p>
+I am also interested in:
 
-## My Guidelines
+- Fantasy
+- Mystery
+- Romance
+- Feel-good fiction
 
-**I definitely will consider** reading most categories for children, especially fantasy or adventure stories for the 9+ age group. Fantasy books for young adults and adults will also be well received. The other genres that I will consider, if the blurb and cover design catch my attention, are historical, Christain, cozy mysteries, romance, suspense and feel-good animal stories. I often read apocalyptic novels but am picky with other types of horror stories.
+Books with strong characters, engaging plots, memorable settings, and compelling storytelling are especially appealing.
 
-**Do not ask me to read** non-fiction, poetry, erotica or psychological thrillers. And to be honest, I am not keen on vampires or werewolves so will most likely reject books with these themes too.
+---
 
-**If your book is part of a series:** Reading the first book in a series will never be an issue, yet asking me to read the second or third book if I haven’t read the previous books isn’t fair. Feel free to ask me to review later books in a series as long as you are willing to provide the previous books too if I request them. Having said that, if you want a review on book 13 in a series, it is highly unlikely I will want to read thirteen books in order to write a book review.
+## Genres I Do Not Accept
 
-**My reading preference** is either paperback, epub, mobi or audiobook. I will not read PDF versions.
+Please do not submit:
 
-**Reviews will be placed on three websites:** Goodreads (Amazon often pulls reviews from here), LibraryThing (I notice Google Play Books pull reviews from here) and my website (refer to For Readers tab for a list of reviews).
+- Erotica
+- Horror
+- Non-fiction
+- Poetry
 
-**Currently NOT accepting review copies:** In the event that I have too many books in my review list, books by Australian authors will be given preference. Check the image on this page. It will indicate if I am accepting or not accepting review copies. Sometimes I have to take a break from accepting more books in order to catch up on the ones I already have, or if I have other commitments.
+If your book falls outside my preferred genres but you believe it would appeal to me or my readers, feel free to contact me with details. I am always willing to consider something different if it genuinely catches my interest.
 
-**I reserve the right** to decline any book that is offered for review. I also reserve the right not to write a review for a book I do accept if I cannot finish reading it due to lack of interest in the characters and/or storyline. Life is too short to force myself to read a book I am not enjoying.
+---
 
-Please understand that providing me with a review copy of your book will not guarantee a positive review. I only write honest reviews. I attempt to include what I like and dislike about the storyline, characters, plot and world. I always include the cover and the blurb. And every review has up to a five-star rating.
+## Series Policy
 
-If your book fits the guidelines and you agree to my terms, please use the [contact page](/contact/) to provide details of the book – the blurb, details of genre, length, subject matter and a link to the book cover (I will use the cover in my review). I will respond to your enquiry within 48 hours where possible. I live in Australia, so please allow for time zone differences.
+I am happy to consider the first book in a series.
 
-Finally, if you have any questions or if the genre of your book is not mentioned above, go ahead and [contact me](/contact/).
+If you would like me to review a later book in a series, please understand that I may need access to earlier books to fully appreciate the story and its characters. Requests to review books deep into a long-running series are unlikely to be accepted unless I am already familiar with the series.
+
+---
+
+## Preferred Formats
+
+I accept review copies in the following formats:
+
+- Paperback
+- Audiobook
+- EPUB
+- MOBI
+
+**PDF copies will not be accepted.**
+
+---
+
+## Where Reviews Are Published
+
+Reviews may be published on:
+
+- This website
+- Goodreads
+- LibraryThing
+
+Reviews typically include:
+
+- My thoughts on the book
+- Discussion of the characters, plot, pacing, and setting
+- The book cover
+- The official blurb
+- A star rating
+
+---
+
+## Important Conditions
+
+By submitting a book for review, you acknowledge and agree to the following:
+
+- I reserve the right to decline any review request.
+- Acceptance of a review copy does not guarantee a review.
+- I reserve the right not to finish a book if it fails to hold my interest.
+- I reserve the right not to publish a review for any book I accept.
+- If I do publish a review, it will be my honest opinion.
+- I am under no obligation to provide a positive review.
+
+Life is too short to read books I am not enjoying, and I believe it is better for both authors and readers if I review only books that I can engage with fairly and honestly.
+
+---
+
+## What to Include in Your Review Request
+
+Please provide the following information when contacting me:
+
+- Book title
+- Author name
+- Genre
+- Book blurb
+- Length (word count or page count if available)
+- Format available for review
+- A link to the book cover
+- Publication date (if applicable)
+- Any other relevant information
+
+The more information you provide, the easier it will be for me to determine whether your book is a good fit.
+
+---
+
+## Contact Me
+
+If your book fits these guidelines and you would like it considered for review, please use the contact form to get in touch.
+
+If you have any questions, or your genre is not listed above, feel free to [contact me](/contact/) and tell me a little about your book.
+
+I look forward to discovering new stories and sharing them with my readers.
