@@ -1,0 +1,39 @@
+---
+layout: post
+title: "I Survived COVID-19 (so far)"
+date: 2020-06-10 10:00:00 +1000
+categories: [blog]
+tags: [personal]
+---
+
+For me, COVID-19 started when I noticed mayhem in the toilet paper aisle of the supermarket, and I wondered what was happening. I didn't need toilet rolls, so didn't buy any. More fool me because I didn't see any more for six weeks. And then, I had to leave home at 6.45 am to ensure I got some (happily, I did), but it was another four weeks or so before I managed to get any more. During that time, my husband struck gold when he managed to get his hands on an industrial roll, but that got us through those tough weeks.
+
+By the time we got used to seeing no toilet paper anywhere, other items had started to become rare commodities. Things like soap, sanitizer, flour, pasta, rice, long-life milk, cereal, oats, canned goods, and then fresh meat disappeared from the shelves as people started to stockpile. The hoarders left nothing for anyone else. Mass panic seemed to take hold. Suddenly store owners imposed limits to these sort after products. Some people turned nasty and actually threw punches over toilet rolls. Can you believe it? It was a scary time, yet my husband and I managed to eat proper meals every day. We improvised. We tried new products. But above all else, we continued to only buy what we needed.
+
+For the world, we are told that COVID-19 started at a wet market in China. Something about cross-contamination of animals that should never be near each other and are not in the real world.
+
+And the conspiracists believe something about worldwide population control. But I won't go into that.
+
+COVID-19 has changed the world. In general terms, the whole world went into lockdown. And within countries, some of its people were forced to stay within their district. While in other countries, people were confined to their own homes.
+
+Suddenly we could not travel overseas. We were not allowed to congregate in large numbers. Family members could not visit each other, let alone their elderly relatives in nursing homes or care facilities, or hospitals. Weddings had to be postponed, while only ten people could attend funerals. Businesses closed their doors, leaving thousands of people jobless or stood down until further notice (actually, I think I could say millions here). If we went for a walk and found ourselves standing admiring the view, we were at risk of receiving a fine for loitering.
+
+Due to an emergency eye test, I visited a shopping centre in the middle of a weekday. A majority of the shops were closed, and it felt dark and eerie walking through the deserted complex alone.
+
+Everywhere we went (and still go) we were expected to stay one and a half metres from the people around us. And sanitizer was (and still is) thrust at us before we could step into a shop, a business, or anywhere else we want to go.
+
+Governments asked us to do these things to stop the spread of the virus and to stop the death toll from rising.
+
+To date, there have been over 7M confirmed cases worldwide, with over 400,000 deaths.
+
+In Australia, where I live, we've been lucky. We acted quickly. One day everything was normal, the next we were working from home. We were asked only to leave our homes for essential purposes only, such as buying food and for medical reasons, and to go to work if we couldn't work from home. Believe me, most people quickly found a way to convert an area in their home to a workspace. Children sat on one side of the room, doing their school work digitally. Meanwhile, their parents sat on the other side of the room, conducting Skype meetings and performing work duties electronically. We adapted. Fast.
+
+To date, there have been just over 7,000 confirmed cases in Australia and 102 deaths.
+
+For some, working from home has been a challenge, especially for those living alone. They report feeling isolated and lonely. For me, I loved working from home and would be happy to continue doing it indefinitely. I work harder, and I'm more focused. There's less stress. But we're all different.
+
+In Australia, the restrictions are slowly lifting. On Saturday, I went to a shopping centre again and, this time, I found the number of people to be confronting. I felt the social distancing requirement was not adhered to and, to be honest, I couldn't wait to leave the complex and get away from the mass of people. I worry that we'll become complacent and end up with a second way of the virus that is more devastating than the first.
+
+I believe we have had other harmful viruses. I also think there has been a toilet roll shortage once before in our history. But regardless of that, 2020 has been a year like no other. Part of me feels as if we are transitioning between what we know (the old) and something totally new. Part of me worries that life will never entirely be like it was. That may not be a bad thing, but it will depend on how the future shapes up. I suppose we'll find out soon enough.
+
+For now, I find myself hoping that the coronavirus disease or COVID-19 soon disappears from the world, never to return. Only then will we be able to start living our new normal. Fingers crossed that the new normal isn't a bad one.
