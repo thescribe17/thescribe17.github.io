@@ -4,7 +4,9 @@ title: "Update: Ghost at the Cemetery"
 subtitle: "Another Cat and Mouse Adventure"
 date: 2026-11-13 10:00:00 +1000
 categories: [blog]
-tags: [news, my-writing] 
+tags: 
+  - news
+  - my-writing
 ---
 
 Finally, after several years, book 2 in the Cat and Mouse Adventure is coming together.
