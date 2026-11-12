@@ -16,29 +16,20 @@ _I have nothing in this category at present._
 
 I have published a few chapter books. I regularly write for the 8 to 12 year old age group.
 
-**House on the Hill – 100% Complete**
+**Ghost at the Cemetery (Book 2 in the Cat & Mouse Adventure series) – 100% Complete**
 
-15,000 / 15,000
+20,000 / 20,000
 
-<div class="stats">15,000 / 15,000</div>
+<div class="stats">20,000 / 20,000</div>
 <div class="statusbar">
 <div class="statusfill" style="width: 100%;">&nbsp;</div>
 </div> 
 
-**Ghost at the Cemetery – 42.85% Complete**
+**Untitled (Book 3 in the Cat & Mouse Adventure series) – 0% Complete**
 
-6,427 / 15,000
+0 / 20,000
 
-<div class="stats">6,427 / 15,000</div>
-<div class="statusbar">
-<div class="statusfill" style="width: 42.85%;">&nbsp;</div>
-</div> 
-
-**(Untitled at Present) (Land of Miu, #4) – 0% Complete**
-
-0 / 30,000
-
-<div class="stats">0 / 30,000</div>
+<div class="stats">0 / 20,000</div>
 <div class="statusbar">
 <div class="statusfill" style="width: 0%;">&nbsp;</div>
 </div> 
@@ -53,7 +44,9 @@ _I have nothing in this category at present._
 
 Most of my completed manuscripts have been for adults. However, they all need major editing. The ones listed below will be published, one day.
 
-**Whispering Caves (Working Title) – 0% Complete**
+**Imperial Guard (Book 1 of The Thresholds Trilogy) – 0% Complete**
+
+Update: As at November 2026 a total replan of the trilogy has been completed. Next step is to start the rewrite of book 1.
 
 0 / 100,000
 
@@ -62,7 +55,9 @@ Most of my completed manuscripts have been for adults. However, they all need ma
 <div class="statusfill" style="width: 0%;">&nbsp;</div>
 </div> 
 
-**Untitled (Prequel to Whispering Caves) – 0% Complete**
+**Threshold (Book 2 of The Thresholds Trilogy) – 0% Complete**
+
+Update: As at November 2026 a total replan has been completed. Next step is to start the rewrite.
 
 0 / 100,000
 
@@ -71,7 +66,9 @@ Most of my completed manuscripts have been for adults. However, they all need ma
 <div class="statusfill" style="width: 0%;">&nbsp;</div>
 </div> 
 
-**Survival (Working Title) – 0% Complete**
+**The Crossing (Book 3 of The Thresholds Trilogy) – 0% Complete**
+
+Update: As at November 2026 a total replan has been completed. Next step is to start the rewrite.
 
 0 / 100,000
 
