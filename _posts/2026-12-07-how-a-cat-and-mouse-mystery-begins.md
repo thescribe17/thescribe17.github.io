@@ -3,7 +3,7 @@ layout: post
 title: "How a Cat & Mouse Mystery Begins"
 subtitle: "Behind the Scenes"
 date: 2026-12-07 10:00:00 +1000
-category: [blog]
+category: [my-writing]
 tags: [my-writing]
 ---
 

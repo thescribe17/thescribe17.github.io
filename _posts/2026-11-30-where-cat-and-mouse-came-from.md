@@ -3,7 +3,7 @@ layout: post
 title: "Where Cat and Mouse Came From"
 subtitle: "Behind the Scenes"
 date: 2026-11-30 10:00:00 +1000
-category: [blog]
+category: [my-writing]
 tags: [my-writing]
 ---
 

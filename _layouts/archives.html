@@ -40,21 +40,5 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-  </section>
-
-  <section class="archive-tags">
-    <h2>Tags</h2>
-    <ul class="tag-list">
-      {% for tag in site.tags %}
-        <li>
-          <strong>{{ tag[0] }}</strong>
-          <ul>
-            {% for post in tag[1] %}
-              <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
+  </section>  
 </section>

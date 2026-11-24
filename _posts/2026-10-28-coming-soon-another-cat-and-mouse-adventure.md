@@ -3,7 +3,7 @@ layout: post
 title: "Coming Soon: Another Cat and Mouse Adventure"
 subtitle: "Ghost at the Cemetery - Book 2"
 date: 2026-10-28 10:00:00 +1000
-categories: [blog]
+categories: [my-writing]
 tags: [news, book-release]
 ---
 

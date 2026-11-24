@@ -3,7 +3,7 @@ layout: post
 title: "Creating Cherryville: Building a Town Full of Adventures"
 subtitle: "Behind the Scenes"
 date: 2026-11-24 10:00:00 +1000
-category: [blog]
+category: [my-writing]
 tags: [my-writing]
 ---
 

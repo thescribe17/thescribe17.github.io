@@ -4,7 +4,7 @@ title: "Clockwork"
 subtitle: "Book Review"
 date: 2005-08-21 10:00:00 +1000
 categories: [book-review]
-tags: [reading, books]
+tags: [books, reading]
 format: Book
 author: "Philip Pullman"
 series:

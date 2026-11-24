@@ -3,7 +3,7 @@ layout: post
 title: "Ghost at the Cemetery Update"
 subtitle: "Another Cat and Mouse Adventure"
 date: 2026-11-13 10:00:00 +1000
-categories: [blog]
+categories: [my-writing]
 tags: [news, my-writing]
 ---
 
